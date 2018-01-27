@@ -25,5 +25,5 @@ There are many applications out there which provide all restaurants at a locatio
 
 #### Where are you going to pull the data from?
 
-Our major data source will be from the readily available APIs from Yelp.
+Our major data source will be from the readily available APIs from Yelp and Google Places API's.
 
