@@ -3,7 +3,7 @@
 
 ## Web Analytics Startup for Restaurants Recommendation
 
-### Team: Arunabha Sen, Rohan Parik, Venkatesh Bhattad
+### Team: Arunabha Sen, Rohan Parikh, Venkatesh Bhattad
 
 ### Project Deliverables
 
