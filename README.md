@@ -9,7 +9,7 @@
 
 #### Who are your customers?
 
-Our business is mainly to serve the general public looking to a place to eat given a particular location. Our product is going to serve localites and tourists to determine the best place to spend their money on a meal.
+Our business is mainly to serve the general public looking for a place to eat given a particular location. Our product is going to serve residents and tourists to determine the best place to spend their money on a meal.
 
 #### What are their needs? 
 
@@ -17,7 +17,7 @@ Everyone's gotta eat. A resident of a city/town often spends time on deciding wh
 
 #### What specific problem(s) will you solve?
 
-The problem of time spent by our customers to decide a restaurant is the objective of this product. We believe everyone spends plenty of time looking for restaurants and deciding on where to eat. Based on exhaustive analytics on the reviews, we plan to provide our customers with instant recommendations.
+The problem of time spent by our customers to decide a restaurant is what we are looking to solve by our product. We believe everyone spends plenty of time looking for restaurants and deciding on where to eat. Based on exhaustive analytics on the reviews, we plan to provide our customers with instant recommendations.
 
 #### Why do these problems need solved?
 
