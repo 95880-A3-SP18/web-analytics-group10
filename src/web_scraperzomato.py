@@ -6,7 +6,8 @@ import time
 
 def download_data():
    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=1081&entity_type=city&sort=rating&order=desc', headers={'user-key' : '2a1c6f3bcec19c6ae981419cb5df1bc0'})
-
+   if r.status_code != 200:
+      return 
    total_count = r.json()['results_found']
    count = total_count / 20
 
