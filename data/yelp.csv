@@ -1,0 +1,1001 @@
+Name,Rating,Review_Count,Price,Cuisine,Latitude,Longitude,Street,City,Zip
+Gaucho Parrilla Argentina,4.5,1350,$$,Argentine,40.449043,-79.987573,1601 Penn Ave,Pittsburgh, PA 15222
+Meat & Potatoes,4.0,1513,$$$,Gastropubs,40.4431445862832,-80.0011037907791,649 Penn Ave,Pittsburgh, PA 15222
+täkō,4.5,850,$$,American (New),40.4422285652929,-80.0019846968895,214 6th St,Pittsburgh, PA 15222
+Noodlehead,4.5,875,$,Thai,40.457748,-79.925491,242 S Highland Ave,Pittsburgh, PA 15206
+La Gourmandine Bakery & Pastry Shop,4.5,370,$,Bakeries,40.47312,-79.95886,4605 Butler St,Pittsburgh, PA 15201
+Butcher and the Rye,4.5,691,$$$,American (New),40.442334,-80.002066,212 6th St,Pittsburgh, PA 15222
+Eleven,4.0,587,$$$,American (New),40.44602,-79.99325,1150 Smallman St,Pittsburgh, PA 15222
+Point Brugge Café,4.5,520,$$,Belgian,40.45003,-79.91385,401 Hastings St,Pittsburgh, PA 15206
+Altius,4.5,411,$$$,American (New),40.438556,-80.019299,1230 Grandview Ave,Pittsburgh, PA 15211
+Smallman Galley,4.5,370,$$,American (Traditional),40.4521777,-79.9837408,54 21st St,Pittsburgh, PA 15222
+Proper Brick Oven & Tap Room,4.5,488,$$,Italian,40.4435995,-80.0003448,139 7th St,Pittsburgh, PA 15222
+Fat Heads Saloon,4.0,666,$$,American (Traditional),40.42897,-79.98022,1805 E Carson St,Pittsburgh, PA 15203
+P&G's Pamela's Diner,4.0,453,$,Diners,40.45199,-79.98366,60 21st St,Pittsburgh, PA 15222
+Kaya,4.0,557,$$,Caribbean,40.45167,-79.98424,2000 Smallman St,Pittsburgh, PA 15222
+Cure,4.0,385,$$$,American (New),40.48269,-79.95116,5336 Butler St,Pittsburgh, PA 15201
+Bakersfield,4.0,493,$$,Bars,40.444065,-79.996632,940 Penn Ave,Pittsburgh, PA 15222
+Nicky's Thai Kitchen,4.0,491,$$,Thai,40.443983,-79.998256,903 Penn Ave,Pittsburgh, PA 15222
+Legume,4.5,345,$$$,French,40.45039,-79.95086,214 N Craig St,Pittsburgh, PA 15213
+Sienna Mercato,4.0,659,$$,Italian,40.4439496,-79.9964366,942 Penn Ave,Pittsburgh, PA 15222
+Everyday Noodles,4.0,518,$$,Chinese,40.438262,-79.920082,5875 Forbes Ave,Pittsburgh, PA 15217
+Primanti Bros.,3.5,1120,$,Sandwiches,40.4507064819336,-79.9855880737305,46 18th St,Pittsburgh, PA 15222
+Piper's Pub,4.5,325,$$,British,40.4284324645996,-79.9794692993164,1828 E Carson St,Pittsburgh, PA 15203
+The Dor-Stop Restaurant,4.5,352,$,Breakfast & Brunch,40.39601,-80.03473,1430 Potomac Ave,Pittsburgh, PA 15216
+Church Brew Works,3.5,925,$$,Bars,40.46244,-79.9644,3525 Liberty Ave,Pittsburgh, PA 15201
+Millie's Homemade Ice Cream,4.5,239,$,Ice Cream & Frozen Yogurt,40.4578599,-79.9254799,232 S Highland Ave,Pittsburgh, PA 15206
+Hofbrauhaus Pittsburgh,4.0,578,$$,German,40.428768,-79.964499,2705 S Water St,Pittsburgh, PA 15203
+Waffallonia,4.5,264,$,Ice Cream & Frozen Yogurt,40.43769,-79.92283,1709 Murray Ave,Pittsburgh, PA 15217
+Smiling Banana Leaf,4.0,412,$$,Thai,40.47591,-79.91954,5901 Bryant St,Pittsburgh, PA 15206
+Nicky's Thai Kitchen,4.0,369,$$,Thai,40.45226,-80.01628,856 Western Ave,Pittsburgh, PA 15233
+Banh Mi & Ti,4.5,171,$,Vietnamese,40.472145273083,-79.9589364429569,4502 Butler St,Pittsburgh, PA 15201
+Winghart's Burger & Whiskey Bar,4.0,461,$$,Burgers,40.44014,-80.0024,5 Market Sq,Pittsburgh, PA 15222
+Deluca's Diner,4.0,503,$,Breakfast & Brunch,40.45154,-79.98375,2015 Penn Ave,Pittsburgh, PA 15222
+Monterey Bay Fish Grotto,4.0,363,$$$,Seafood,40.439059,-80.021242,1411 Grandview Ave,Pittsburgh, PA 15211
+Las Palmas Carniceria,4.5,202,$,Mexican,40.3945960998535,-80.0216827392578,700 Brookline Blvd,Pittsburgh, PA 15226
+D's Six Pax & Dogz,4.5,329,$$,Pubs,40.432083,-79.893639,1118 S Braddock Ave,Pittsburgh, PA 15218
+Muddy Waters Oyster Bar,4.5,290,$$,Cocktail Bars,40.4602070145253,-79.925226,130 S Highland Ave,Pittsburgh, PA 15206
+Istanbul Sofra,4.5,302,$$,Turkish,40.4395831125655,-79.8974592089652,7600 Forbes Ave,Pittsburgh, PA 15221
+DiAnoia's Eatery,4.5,255,$$,Italian,40.455,-79.97874,2549 Penn Ave,Pittsburgh, PA 15222
+Burgatory,4.0,435,$$,Burgers,40.489444,-79.892937,932 Freeport Rd,Pittsburgh, PA 15238
+Las Palmas,4.5,182,$,Mexican,40.4389190673828,-79.9553070068359,326 Atwood St,Pittsburgh, PA 15213
+Penn Ave Fish Company,4.0,257,$$,Sushi Bars,40.4523086547852,-79.981819152832,2208 Penn Ave,Pittsburgh, PA 15222
+Apteka,4.5,175,$$,Vegan,40.4656499,-79.94933,4606 Penn Ave,Pittsburgh, PA 15224
+Doce Taqueria,4.5,189,$,Mexican,40.42859,-79.9855199,1220 E Carson St,Pittsburgh, PA 15203
+Square Cafe,4.0,397,$$,Breakfast & Brunch,40.432113757304,-79.893269196457,1137 S Braddock Ave,Pittsburgh, PA 15218
+Casbah,4.0,345,$$$,Greek,40.45814,-79.9248,229 S Highland Ave,Pittsburgh, PA 15206
+Spice Island Tea House,4.0,294,$$,Asian Fusion,40.44003,-79.95601,253 Atwood St,Pittsburgh, PA 15213
+Piccolo Forno,4.0,344,$$,Italian,40.46709,-79.96444,3801 Butler St,Pittsburgh, PA 15201
+The Pub Chip Shop,4.5,203,$,British,40.42843,-79.97939,1830 E Carson St,Pittsburgh, PA 15203
+Mount Everest Sushi,4.5,119,$,Asian Fusion,40.44159,-79.95728,128 Oakland Ave,Pittsburgh, PA 15213
+B52 Cafe,4.5,146,$$,Coffee & Tea,40.4804344177246,-79.9541091918945,5202 Butler St,Pittsburgh, PA 15201
+Cafe Du Jour,4.5,152,$$,French,40.42893,-79.98715,1107 E Carson St,Pittsburgh, PA 15203
+Spoon,4.0,292,$$$,American (New),40.4600439842704,-79.9252199797378,134 S Highland Ave,Pittsburgh, PA 15206
+Mercurio's,4.0,284,$$,Pizza,40.45165,-79.93299,5523 Walnut St,Pittsburgh, PA 15232
+Fiori's Pizzaria,4.5,262,$,Pizza,40.405245,-80.018538,103 Capital Ave,Pittsburgh, PA 15226
+Morcilla,4.5,214,$$$,Spanish,40.4645572158093,-79.9661576054382,3519 Butler St,Pittsburgh, PA 15201
+Luke Wholey's Wild Alaskan Grille,4.0,338,$$,Seafood,40.4519212353498,-79.9828073229609,2106 Penn Ave,Pittsburgh, PA 15222
+Park Bruges,4.0,259,$$,Belgian,40.47617,-79.92055,5801 Bryant St,Pittsburgh, PA 15206
+S&D Polish Deli,4.5,173,$,Polish,40.4523578,-79.9820206,2204 Penn Ave,Pittsburgh, PA 15222
+Robert Wholey and Co Fish Market,4.0,204,$$,Grocery,40.450111,-79.9858749,1711 Penn Ave,Pittsburgh, PA 15222
+The Commoner,4.0,396,$$,American (New),40.4416755558876,-79.9962055881847,458 Strawberry Way,Pittsburgh, PA 15219
+Alla Famiglia,4.5,170,$$$$,Italian,40.42161,-79.99346,804 E Warrington Ave,Pittsburgh, PA 15210
+The Porch at Schenley,3.5,519,$$,Sandwiches,40.442777,-79.953151,221 Schenley Dr,Schenley Plz,Pittsburgh, PA 15213
+Waffles Incaffeinated,3.5,396,$$,Breakfast & Brunch,40.42788,-79.9693,2517 E Carson St,Pittsburgh, PA 15203
+P&G's Pamela's Diner,4.0,260,$,Breakfast & Brunch,40.4515828357537,-79.9328698390366,5527 Walnut St,Pittsburgh, PA 15232
+La Palapa, Mexican Gourmet Kitchen,4.5,173,$$,Mexican,40.42889,-79.97809,1925 E Carson St,Pittsburgh, PA 15203
+Primanti Bros,3.5,608,$,Sandwiches,40.440287,-80.002585,2 S Market Sq,Pittsburgh, PA 15222
+The Capital Grille,4.0,237,$$$$,Steakhouses,40.4407195879422,-80.0000391542347,301 5th Ave,Pittsburgh, PA 15222
+Soba,4.0,285,$$$,Asian Fusion,40.45713,-79.92961,5847 Ellsworth Ave,Pittsburgh, PA 15232
+Tessaro's,4.0,356,$$,Steakhouses,40.46278,-79.95064,4601 Liberty Ave,Pittsburgh, PA 15224
+Bar Marco,4.0,254,$$,Wine Bars,40.45248,-79.98155,2216 Penn Ave,Pittsburgh, PA 15222
+Pork & Beans,4.0,260,$$,Smokehouse,40.4430332882836,-80.0024601607132,136 6th St,Pittsburgh, PA 15222
+NOLA,3.5,453,$$,Cajun/Creole,40.44118,-80.00304,24 Market Sq,Pittsburgh, PA 15222
+The Zenith,4.0,171,$$,Vegetarian,40.426803,-79.968973,86 S 26th St,Pittsburgh, PA 15203
+Avenue B,4.0,226,$$$,American (New),40.4568557739258,-79.9364318847656,5501 Centre Ave,Pittsburgh, PA 15232
+Salem's Market & Grill,4.5,160,$,Meat Shops,40.45843,-79.9737899,2923 Penn Ave,Pittsburgh, PA 15201
+Oishii Bento,4.0,235,$,Japanese,40.4418999,-79.95714,119 Oakland Ave,Pittsburgh, PA 15213
+Spak Brothers Pizza and More,4.0,228,$,Pizza,40.46516,-79.94253,5107 Penn Ave,Pittsburgh, PA 15224
+Chicken Latino,4.0,164,$,Latin American,40.4516497733743,-79.983172416687,155 21st St,Pittsburgh, PA 15222
+Thai Cuisine,4.0,217,$$,Thai,40.4625496053045,-79.9497600693115,4627 Liberty Ave,Pittsburgh, PA 15224
+Delanie's Coffee,4.5,131,$,Coffee & Tea,40.42899,-79.98074,1737 E Carson St,Pittsburgh, PA 15203
+Union Grill,4.0,318,$$,American (Traditional),40.44482,-79.94842,413 S Craig St,Pittsburgh, PA 15213
+The Twisted Frenchman,4.5,110,$$$,French,40.4602131685326,-79.9251211918181,5925 Baum Blvd,Pittsburgh, PA 15206
+Zeke's Coffee,4.5,86,$,Cafes,40.4615,-79.92399,6015 Penn Ave,Pittsburgh, PA 15206
+Hidden Harbor,4.5,107,$$,Cocktail Bars,40.4376509,-79.9195142,1708 Shady Ave,Pittsburgh, PA 15217
+Alihan's Mediterranean Cuisine,4.5,145,$$,Mediterranean,40.4439011586983,-80.0026876337296,124 6th St,Pittsburgh, PA 15222
+Taiwanese Bistro Cafe 33,4.5,130,$$,Taiwanese,40.4376110828313,-79.9191114696594,1711 Shady Ave,Pittsburgh, PA 15217
+Smoke BBQ Taqueria,3.5,345,$$,Barbeque,40.47004,-79.96113,4115 Butler St,Pittsburgh, PA 15201
+Tram's Kitchen,4.0,281,$,Vietnamese,40.46525,-79.95596,4050 Penn Ave,Pittsburgh, PA 15224
+Shiloh Grill,4.0,293,$$,Pubs,40.4308853149414,-80.006965637207,123 Shiloh St,Pittsburgh, PA 15211
+Coca Cafe,3.5,432,$$,Breakfast & Brunch,40.46725,-79.96423,3811 Butler St,Pittsburgh, PA 15201
+Tazza D'oro,4.5,143,$,Coffee & Tea,40.47488,-79.91885,1125 N Highland Ave,Pittsburgh, PA 15206
+Butterjoint,4.0,161,$$,American (New),40.4499759734743,-79.9507371864515,214 N Craig St,Pittsburgh, PA 15213
+Rose Tea Cafe,3.5,312,$$,Taiwanese,40.43791,-79.9201099,5874 Forbes Ave,Pittsburgh, PA 15217
+Lidia's,3.5,408,$$,Italian,40.44812,-79.98976,1400 Smallman St,Pittsburgh, PA 15222
+Grand Concourse,3.5,338,$$$,Seafood,40.433077,-80.003773,100 W Station Square Dr,Pittsburgh, PA 15219
+The Enrico Biscotti,4.0,151,$$,Bakeries,40.45131,-79.98323,2022 Penn Ave,Pittsburgh, PA 15222
+Bluebird Kitchen,4.0,209,$$,American (New),40.4404639452696,-80.0017393380404,221 Forbes Ave,Pittsburgh, PA 15222
+Condado Tacos,4.0,274,$$,Mexican,40.44374,-79.99546,971 Liberty Ave,Pittsburgh, PA 15222
+Umami,4.0,163,$$,Sushi Bars,40.466661080718,-79.9641515314579,202 38th St,(Above Round Corner Cantina),Pittsburgh, PA 15201
+Gaby Et Jules,4.0,187,$$,Bakeries,40.438345,-79.921365,5837 Forbes Ave,Pittsburgh, PA 15217
+Cafe Raymond,4.5,92,$$,Breakfast & Brunch,40.45146,-79.98388,2009 Penn Ave,Pittsburgh, PA 15222
+Carson Street Deli & Craft Beer Bar,4.5,112,$$,Delis,40.42893,-79.98308,1507 E Carson St,Pittsburgh, PA 15203
+Burgatory,4.0,196,$$,Burgers,40.4460819,-80.0111375,342 N Shore Dr,Pittsburgh, PA 15212
+Harris Grill,3.5,323,$$,American (Traditional),40.45596,-79.93134,5747 Ellsworth Ave,Pittsburgh, PA 15232
+Madonna's Mediterranean Cuisine,4.5,77,$,Mediterranean,40.4389554,-79.9993319,408 Smithfield St,Pittsburgh, PA 15219
+Edgar Tacos Stand,5.0,54,$,Street Vendors,40.455585,-79.977913,2627 Penn Ave,Pittsburgh, PA 15222
+Streets On Carson,4.5,99,$$,Tapas/Small Plates,40.4286060880361,-79.9866321310401,1120 E Carson St,Pittsburgh, PA 15203
+The Urban Tap,4.0,231,$$,Gastropubs,40.42895,-79.98594,1209 E Carson St,Pittsburgh, PA 15203
+Senyai Thai Kitchen,4.5,98,$$,Thai,40.4576253,-79.9288277,5865 Ellsworth Ave,Pittsburgh, PA 15232
+Pittsburgh Poke,4.5,81,$$,Sushi Bars,40.4412299820832,-80.0034700334072,500 Liberty Ave,Pittsburgh, PA 15222
+Peppi's,4.5,98,$,Sandwiches,40.4516599,-80.01756,927 Western Ave,Pittsburgh, PA 15233
+The Pretzel Shop,4.5,98,$,American (Traditional),40.4280014038086,-79.9722442626953,2316 E Carson St,Pittsburgh, PA 15203
+Bigham Tavern,4.0,218,$$,Chicken Wings,40.432386,-80.015066,321 Bigham St,Pittsburgh, PA 15211
+Thai Gourmet,4.5,160,$$,Thai,40.46318,-79.95144,4505 Liberty Ave,Pittsburgh, PA 15224
+Piada Italian Street Food,4.0,150,$,Italian,40.44048,-79.95771,3600 Forbes Ave,Pittsburgh, PA 15213
+Pirata,4.0,175,$$,Caribbean,40.4402384502573,-80.0015466783182,274 Forbes Ave,Pittsburgh, PA 15222
+Cafe Moulin,4.0,188,$$,Breakfast & Brunch,40.4516222360555,-79.9331853806125,732 Filbert St,Pittsburgh, PA 15232
+Teppanyaki Kyoto,4.0,148,$$,Japanese,40.4757080078125,-79.9204254150391,5808 Bryant St,Pittsburgh, PA 15206
+The Smiling Moose,4.0,126,$$,Bars,40.428596496582,-79.9849472045898,1306 E Carson St,Pittsburgh, PA 15203
+YinzBurgh BBQ,4.0,159,$$,Barbeque,40.4552574158569,-79.9461903067314,4903 Baum Blvd,Pittsburgh, PA 15213
+Geppetto Cafe,4.5,118,$$,Creperies,40.4701499,-79.961,4121 Butler St,Pittsburgh, PA 15201
+Girasole Restaurant,4.0,297,$$,Italian,40.45121,-79.93462,733 Copeland St,Pittsburgh, PA 15232
+Kelly O's Diner,4.0,186,$,Diners,40.45397,-79.9811,2400 Smallman St,Pittsburgh, PA 15222
+Industry Public House,3.5,481,$$,American (New),40.4707662016153,-79.9603226780891,4305 Butler St,Pittsburgh, PA 15201
+Sichuan Gourmet,4.0,238,$$,Szechuan,40.43588,-79.92307,1900 Murray Ave,Pittsburgh, PA 15217
+The Vandal,4.0,163,$$,Breakfast & Brunch,40.47079,-79.95999,4306 Butler St,Pittsburgh, PA 15201
+Carmella's Plates & Pints,4.0,143,$$,Cocktail Bars,40.4283922157734,-79.9787491187453,1908 E Carson St,Pittsburgh, PA 15203
+Fuel & Fuddle,3.5,277,$$,Gastropubs,40.4412454,-79.9566016,212 Oakland Ave,Pittsburgh, PA 15213
+Sienna On The Square,4.0,207,$$,Italian,40.441166189758,-80.0022912025452,22 Market Sq,Pittsburgh, PA 15222
+Big Jim's Restaurant & Bar,4.0,164,$$,American (Traditional),40.4270451,-79.9496055,201 Saline St,Pittsburgh, PA 15207
+How Lee Chinese Food,4.0,217,$$,Chinese,40.4379,-79.91951,5888 Forbes Ave,Pittsburgh, PA 15217
+Max's Allegheny Tavern,4.0,204,$$,German,40.45517,-79.99981,537 Suismon St,Pittsburgh, PA 15212
+Té Café,4.5,99,$,Coffee & Tea,40.43457,-79.92301,2000 Murray Ave,Pittsburgh, PA 15217
+Little Tokyo Bistro,4.5,105,$$,Sushi Bars,40.4281845092773,-79.9753036499023,2122 E Carson St,Pittsburgh, PA 15203
+Station,4.0,161,$$,Cocktail Bars,40.4611511230469,-79.9485244750977,4744 Liberty Ave,Pittsburgh, PA 15224
+The Summit,4.5,110,$$,Cocktail Bars,40.4307117137173,-80.0074910502799,200 Shiloh St,Pittsburgh, PA 15211
+Il Pizzaiolo,3.5,258,$$,Pizza,40.380192,-80.044459,703 Washington Rd,Pittsburgh, PA 15228
+Pitaland,4.5,81,$,Bakeries,40.39487,-80.02208,620 Brookline Blvd,Pittsburgh, PA 15226
+Totopo Mexican Kitchen and Bar,4.0,197,$$,Bars,40.380953114953,-80.0445051301809,660 Washington Rd,Pittsburgh, PA 15228
+Cop Out Pierogies,4.5,68,$,Polish,40.49621,-79.9440599,350 Butler St,Pittsburgh, PA 15223
+Stone Neapolitan Pizzeria,4.0,132,$$,Pizza,40.4409409013142,-80.0061373024467,300 Liberty Ave,Ste 100,Pittsburgh, PA 15222
+Pamela's Upstreet Diner,4.0,148,$,Breakfast & Brunch,40.43762,-79.92283,1711 Murray Ave,Pittsburgh, PA 15217
+Mad Mex - Shadyside,3.5,284,$$,Mexican,40.458283,-79.925318,220 S Highland Ave,Pittsburgh, PA 15206
+Double Wide Grill,3.5,386,$$,Barbeque,40.4285125732422,-79.9713287353516,2339 E Carson St,Pittsburgh, PA 15203
+Subba,4.0,127,$,Asian Fusion,40.453438027557,-80.0016119967982,700 Cedar Ave,Pittsburgh, PA 15212
+BRGR,3.5,405,$$,Burgers,40.4599150051422,-79.9256637245782,5997 Centre Ave,Pittsburgh, PA 15206
+Pear and the Pickle, Cafe & Market,4.5,56,$,Cafes,40.46675,-79.98231,1800 Rialto St,Pittsburgh, PA 15212
+Cioppino Restaurant & Cigar Bar,4.0,157,$$$,Seafood,40.4541644107714,-79.9830404050323,2350 Railroad St,Pittsburgh, PA 15222
+Pizza Taglio,4.5,113,$$,Pizza,40.46026,-79.92516,126 S Highland Ave,Pittsburgh, PA 15206
+Onion Maiden,4.5,60,$$,Vegan,40.4218526,-79.9967605,639 E Warrington Ave,Pittsburgh, PA 15210
+All India,4.0,143,$$,Indian,40.4521894,-79.9525714,315 N Craig St,Pittsburgh, PA 15213
+OTB Bicycle Café,4.0,202,$$,American (New),40.4274101257324,-79.9690628051758,2518 E Carson St,Pittsburgh, PA 15203
+Mallorca Restaurant,3.5,233,$$$,Spanish,40.428224,-79.973376,2228 E Carson St,Pittsburgh, PA 15203
+Aladdin's Eatery,4.0,162,$$,Middle Eastern,40.43777,-79.91989,5878 Forbes Ave,Pittsburgh, PA 15217
+Tamarind,4.0,204,$$,Indian,40.45115,-79.95197,257 N Craig St,Pittsburgh, PA 15213
+Hough's,4.0,171,$$,Sports Bars,40.4262619018555,-79.9403305053711,563 Greenfield Ave,Pittsburgh, PA 15207
+Cambod-Ican Kitchen,4.0,108,$$,Cambodian,40.4288852949545,-79.9820696935058,1701 E Carson St,Pittsburgh, PA 15203
+Joseph Tambellini Restaurant,4.5,106,$$$,Italian,40.4765815734863,-79.9214401245117,5701 Bryant St,Pittsburgh, PA 15206
+Big Shot Bob's House of Wings - Avalon,4.5,83,$,Chicken Wings,40.50376,-80.06179,344 Union Ave,Pittsburgh, PA 15202
+Micro Diner,4.0,128,$,Diners,40.4298431477457,-80.0073562969862,221 Shiloh St,Pittsburgh, PA 15211
+Mineo's Pizza House,3.5,268,$,Pizza,40.43286,-79.9232,2128 Murray Ave,Pittsburgh, PA 15217
+Pasha Cafe Lounge,4.5,80,$$,Mediterranean,40.4510208759075,-79.9320307374001,808 Ivy St,Pittsburgh, PA 15232
+The Melting Pot - Pittsburgh,4.0,146,$$$,Fondue,40.43325,-80.00445,125 W Station Square Dr,Pittsburgh, PA 15219
+Mad Mex - Oakland,3.5,252,$$,Tex-Mex,40.438019,-79.954209,370 Atwood St,Pittsburgh, PA 15213
+Caffe Mona La Bistro,4.0,193,$$,Breakfast & Brunch,40.465725,-79.95432,4200 Penn Ave,Pittsburgh, PA 15224
+Whitfield,4.0,148,$$,American (New),40.46094,-79.92648,120 S Whitfield St,The Ace Hotel,Pittsburgh, PA 15206
+Eddie V's Prime Seafood,4.5,88,$$$,Steakhouses,40.43994,-79.99703,501 Grant St,Pittsburgh, PA 15219
+Sushi Fuku,4.0,136,$,Sushi Bars,40.44166,-79.95734,120 Oakland Ave,Pittsburgh, PA 15213
+Pizzaiolo Primo,3.5,190,$$,Italian,40.44029,-80.00214,8 Market Sq,Pittsburgh, PA 15222
+Aiello's Pizza,4.0,192,$,Pizza,40.43326,-79.92324,2112 Murray Ave,Pittsburgh, PA 15217
+The Colombian Spot,4.5,60,$$,Colombian,40.428796,-79.976795,2019 E Carson St,Pittsburgh, PA 15203
+Istanbul Grille,4.5,63,$,Turkish,40.441355,-79.994853,600 Grant St,Pittsburgh, PA 15219
+Crepes Parisiennes,4.0,133,$$,Creperies,40.4460678100586,-79.9486389160156,207 S Craig St,Pittsburgh, PA 15213
+Jade Grille,4.0,161,$$,Szechuan,40.3805957,-80.0448481,670 Washington Rd,Pittsburgh, PA 15228
+Umi,4.0,127,$$$$,Japanese,40.45713,-79.92961,5847 Ellsworth Ave,Pittsburgh, PA 15232
+Olive or Twist,3.5,242,$$,American (New),40.44294,-80.00257,140 6th St,Pittsburgh, PA 15222
+Reyna Foods,4.0,97,$,Grocery,40.4515794,-79.9834798,2023 Penn Ave,Pittsburgh, PA 15222
+Chaya Japanese Cuisine,3.5,199,$$,Japanese,40.43389,-79.92311,2032 Murray Ave,Pittsburgh, PA 15217
+El Burro,4.0,171,$,Tacos,40.45588,-80.00653,1108 Federal St,Pittsburgh, PA 15212
+Bangal Kabab House and Restaurant,4.0,125,$$,Indian,40.439047,-79.9554689,320 Atwood St,Pittsburgh, PA 15213
+The Yard Gastropub,3.5,259,$$,American (New),40.4513696,-79.9341804,736 Bellefonte St,Pittsburgh, PA 15232
+Kavsar Restaurant,4.5,105,$$,Uzbek,40.4289202,-80.0074459,16 Southern Ave,Pittsburgh, PA 15211
+Ginza,4.0,118,$$,Japanese,40.4612998962402,-79.9488983154297,4734 Liberty Ave,Pittsburgh, PA 15224
+Showcase BBQ,4.5,76,$,Barbeque,40.4581,-79.90598,6800 Frankstown Ave,Pittsburgh, PA 15208
+Little Tokyo,4.0,150,$$,Sushi Bars,40.3818,-80.04437,636 Washington Rd,Pittsburgh, PA 15228
+P&G's Pamela's Diner,3.5,207,$,Breakfast & Brunch,40.4413058,-79.9575342,3703 Forbes Ave,Pittsburgh, PA 15213
+Aladdin's Eatery,4.0,108,$$,Vegetarian,40.3818982581921,-80.0442885177365,630 Washington Rd,Pittsburgh, PA 15228
+Turkish Kebab House,4.5,110,$$,Turkish,40.438175,-79.922191,5819 Forbes Ave,Pittsburgh, PA 15217
+East End Food Co-Op,4.5,99,$$,Health Markets,40.44827,-79.89574,7516 Meade St,Pittsburgh, PA 15208
+Daphne Cafe,4.0,139,$$,Mediterranean,40.4563938195113,-79.9305386851092,5811 Ellsworth Ave,Pittsburgh, PA 15232
+Eddie Merlot's - Pittsburgh,4.0,153,$$$,Seafood,40.4408,-80.00464,444 Liberty Ave,Ste 100,Pittsburgh, PA 15222
+Beehive Coffee,4.0,128,$,Coffee & Tea,40.4289537,-79.9842819,1327 E Carson St,Pittsburgh, PA 15203
+Cafe io,4.0,92,$$,Cafes,40.3889198303223,-80.049919128418,300 Beverly Rd,Pittsburgh, PA 15216
+Tan Lac Vien,3.5,198,$$,Vietnamese,40.4332,-79.92325,2114 Murray Ave,Pittsburgh, PA 15217
+Paris 66,3.5,208,$$,French,40.459956,-79.92427,6018 Centre Ave,Pittsburgh, PA 15206
+Round Corner Cantina,3.5,311,$$,Mexican,40.4665926843882,-79.9643587321043,3720 Butler St,Pittsburgh, PA 15201
+Shady Grove,3.5,202,$$,American (Traditional),40.45096,-79.93359,5500 Walnut St,Pittsburgh, PA 15232
+Bae Bae's Kitchen,4.5,67,$$,Korean,40.4435133920582,-79.9961381390621,951 Liberty Ave,Pittsburgh, PA 15222
+Arnold's Tea,4.5,52,$,Sandwiches,40.4537010192871,-80.0004806518555,502 E Ohio St,Pittsburgh, PA 15212
+Jerome Bettis' Grille 36,3.5,380,$$,American (Traditional),40.4456301,-80.0121247,393 N Shore Dr,Pittsburgh, PA 15212
+Ramen Bar,3.5,255,$$,Ramen,40.4379625914569,-79.9206533432007,5860 Forbes Ave,Pittsburgh, PA 15217
+Taste of India,4.0,111,$$,Indian,40.4657399,-79.95352,4320 Penn Ave,Pittsburgh, PA 15224
+Little Bangkok In the Strip,4.0,113,$$,Thai,40.45074,-79.98408,1906 Penn Ave,Pittsburgh, PA 15222
+Sichuan Gourmet,4.0,113,$$,Szechuan,40.4389524203373,-79.9551590458901,328 Atwood St,Pittsburgh, PA 15213
+Stagioni,4.0,110,$$,Italian,40.42824,-79.97593,2104 E Carson St,Pittsburgh, PA 15203
+Hyde Park Prime Steakhouse,4.0,156,$$$,Steakhouses,40.446175,-80.0082771,247 N Shore Dr,Pittsburgh, PA 15212
+Sumi's Cakery,4.5,69,$,Bakeries,40.4331,-79.92289,2119 Murray Ave,Pittsburgh, PA 15217
+Triangle Bar & Grill,4.5,78,$,Sandwiches,40.41757,-79.88794,2122 Monongahela Ave,Pittsburgh, PA 15218
+Texas de Brazil,4.0,177,$$$,Brazilian,40.43413,-80.00526,240 W Station Square Dr,Ste D1,Pittsburgh, PA 15219
+Naya Cuisine,4.5,90,$$,Middle Eastern,40.4341903659557,-79.9230114,2018 Murray Ave,Pittsburgh, PA 15217
+Penn Brewery,3.5,204,$$,German,40.4571416642591,-79.991501004141,800 Vinial St,Pittsburgh, PA 15212
+Groceria Italiana,4.5,38,$,Grocery,40.46187,-79.94856,237 Cedarville St,Pittsburgh, PA 15224
+Pastoli's Pizza, Pasta & Paisans,4.5,80,$$,Pizza,40.43588,-79.92307,1900 Murray Ave,Pittsburgh, PA 15217
+The Greek Gourmet,4.5,74,$,Greek,40.4326705932617,-79.9234771728516,2130 Murray Ave,Pittsburgh, PA 15217
+Sausalido,4.0,145,$$,Modern European,40.4625129699707,-79.9500045776367,4621 Liberty Ave,Pittsburgh, PA 15224
+Dijlah Restaurant,4.0,90,$$,Middle Eastern,40.4699036578508,-79.9607632682451,4130 Butler St,Pittsburgh, PA 15201
+Vue 412,4.0,234,$$,American (New),40.43798,-80.01817,1200 Grandview Ave,Pittsburgh, PA 15211
+No. 1 Sushi Sushi,4.0,91,$$,Sushi Bars,40.441062,-80.002126,436 Market St,Pittsburgh, PA 15222
+Pho Van,3.5,177,$,Vietnamese,40.4519857,-79.9824067,2120 Penn Ave,Pittsburgh, PA 15222
+Bea Taco Town,4.0,83,$,Mexican,40.442413,-79.997314,633 Smithfield St,Pittsburgh, PA 15222
+Benny Fierro's,4.5,75,$,Pizza,40.428394317627,-79.9788360595703,1906 E Carson St,Pittsburgh, PA 15203
+Legends Eatery,4.0,130,$$,Italian,40.45657,-80.00148,500 E N Ave,Pittsburgh, PA 15212
+Brillobox,3.5,145,$$,Bars,40.46555,-79.95476,4104 Penn Ave,Pittsburgh, PA 15224
+Iron Born Pizza,4.5,55,$$,Pizza,40.4523365,-79.9841296,54 21st St,Pittsburgh, PA 15222
+Sushi Tomo,4.0,97,$$,Japanese,40.52581,-80.00491,4812 McKnight Rd,Pittsburgh, PA 15237
+Michael's Pizza Bar & Restaurant,4.5,73,$,Pizza,40.42624,-79.96823,2612 Sarah St,Pittsburgh, PA 15203
+Hog's Head Bar & Grill,4.5,64,$$,American (Traditional),40.4824409484863,-79.9960098266602,3433 Spring Garden Rd,Pittsburgh, PA 15212
+Six Penn Kitchen,3.0,301,$$,American (New),40.442798614502,-80.0025024414062,146 6th St,Pittsburgh, PA 15222
+Original Hot Dog Shop,3.5,209,$,Hot Dogs,40.442147,-79.956513,3901 Forbes Ave,Pittsburgh, PA 15213
+Parker's PGH,4.5,57,$,Sandwiches,40.39518,-80.02252,600 Brookline Blvd,Pittsburgh, PA 15226
+The Library,3.5,172,$$,American (Traditional),40.4281425,-79.9728382,2302 E Carson St,Pittsburgh, PA 15203
+Ineffable Ca Phe,4.5,65,$,Vietnamese,40.46466,-79.95929,3920 Penn Ave,Pittsburgh, PA 15224
+Winghart's Burger & Whiskey Bar,3.5,143,$$,Burgers,40.4291611,-79.9831085,1505 E Carson St,Pittsburgh, PA 15203
+The Cheesecake Factory,3.5,217,$$,Desserts,40.42822,-79.96528,415 S 27th St,Pittsburgh, PA 15203
+Tana Ethiopian Cuisine,4.0,115,$$,Ethiopian,40.4606323242188,-79.9269104003906,5929 Baum Blvd,Pittsburgh, PA 15206
+Primanti Bros.,3.5,267,$,Sandwiches,40.44178,-79.95695,3803 Forbes Ave,Pittsburgh, PA 15213
+Beto's Pizza,3.5,168,$,Pizza,40.41274,-80.03035,1473 Banksville Rd,Pittsburgh, PA 15216
+Maiku Sushi,3.5,157,$,Sushi Bars,40.4490736801823,-79.9872996658087,1611 Penn Ave,Pittsburgh, PA 15222
+Deli on Butler Street,4.5,68,$,Delis,40.46936,-79.96124,4034 Butler St,Pittsburgh, PA 15201
+The Yard,3.5,223,$$,American (New),40.4414,-80.00287,100 5th Ave,Pittsburgh, PA 15222
+Market St Grocery,4.5,49,$$,Wine Bars,40.44118,-80.00239,435 Market St,Pittsburgh, PA 15222
+Silk Elephant,3.5,194,$$,Thai,40.437802,-79.92303,1712 Murray Ave,Squirrel Hill,Pittsburgh, PA 15217
+NU Jewish Bistro,4.0,101,$$,American (New),40.4375577,-79.92282,1711 Murray Ave,Pittsburgh, PA 15217
+Independent Brewing Company,4.0,120,$$,American (New),40.4376827662703,-79.9195291191728,1704 Shady Ave,Pittsburgh, PA 15217
+Applewood Smoke Burger,4.5,60,$$,Burgers,40.47631,-79.92084,5721 Bryant St,Pittsburgh, PA 15206
+Thai Me Up,3.5,165,$$,Thai,40.427086,-79.973273,118 S 23rd St,Pittsburgh, PA 15203
+Emilliano's Mexican Restaurant and Bar,3.5,236,$$,Mexican,40.4277223400876,-79.9686308033154,2557 E Carson St,Pittsburgh, PA 15203
+Savoy,3.5,123,$$$,American (New),40.45552,-79.97806,2623 Penn Ave,Pittsburgh, PA 15222
+Smallman Street Deli,4.0,116,$$,Delis,40.4355545043945,-79.9232559204102,1912 Murray Ave,Pittsburgh, PA 15217
+Chinatown Inn,4.0,125,$$,Chinese,40.4371064013223,-79.9973292902832,520 3rd Ave,Pittsburgh, PA 15219
+Spork,4.0,106,$$$,Tapas/Small Plates,40.4644813537598,-79.9353713989258,5430 Penn Ave,Pittsburgh, PA 15206
+Braddock's Pittsburgh Brasserie,3.5,141,$$,American (New),40.4438209533691,-80.0022430419922,107 6th St,Pittsburgh, PA 15222
+Stack'd Burgers - Shadyside,3.5,145,$$,Burgers,40.4510918,-79.9350785,728 Copeland St,Pittsburgh, PA 15232
+Andy's Sushi Bar,4.5,62,$$,Sushi Bars,40.45011,-79.98587,1711 Penn Ave,Pittsburgh, PA 15222
+Gluuteny Bakery,4.0,89,$,Bakeries,40.4351844787598,-79.9225997924805,1923 Murray Ave,Pittsburgh, PA 15217
+Chick'n Bubbly,4.0,113,$,Korean,40.44193,-79.9571799,117 Oakland Ave,Pittsburgh, PA 15213
+Dinette,3.5,146,$$,Pizza,40.459593019833,-79.9255407974124,5996 Centre Ave,Pittsburgh, PA 15206
+Dive Bar & Grill,4.0,112,$$,Dive Bars,40.4797096,-79.9551926,5147 Butler St,Pittsburgh, PA 15201
+Ten Penny,3.0,396,$$,American (Traditional),40.4444316,-79.9956094,960 Penn Ave,Pittsburgh, PA 15222
+Salim's Middle Eastern Food Store,4.5,47,$,Delis,40.4528,-79.94938,4705 Centre Ave,Pittsburgh, PA 15213
+Tamarind Savoring India,4.0,135,$$,Indian,40.39083,-80.07095,2101 Greentree Rd,Pittsburgh, PA 15220
+Kabob-G Grill,4.5,52,$$,Mediterranean,40.3654729,-80.0255984,3821 Willow Ave,Pittsburgh, PA 15234
+Casa Reyna,3.5,213,$$,Mexican,40.4516855,-79.9833236,2031 Penn Ave,Pittsburgh, PA 15222
+Lili Cafe,4.0,66,$,Coffee & Tea,40.45747,-79.96587,3138 Dobson St,Pittsburgh, PA 15219
+Hello Bistro,3.5,161,$,Salad,40.4407643,-79.9581044,3605 Forbes Ave,Pittsburgh, PA 15213
+Tootie's Famous Italian Beef,4.0,100,$,Italian,40.42869,-79.9827,93 S 16th St,Pittsburgh, PA 15203
+Kiku Japanese Restaurant,4.0,96,$$,Japanese,40.434127,-80.00605,225 W Station Square Dr,Pittsburgh, PA 15219
+Spice Affair,4.5,68,$$,Indian,40.4891,-79.90089,8 Brilliant Ave,Pittsburgh, PA 15215
+Arancini House,4.5,53,$,Pizza,40.38236,-80.04374,615 Washington Rd,Terrace Level,Pittsburgh, PA 15228
+Ruths Chris Steak House,4.0,103,$$$$,Steakhouses,40.4396204328057,-80.0034491477256,6 PPG Pl,Pittsburgh, PA 15222
+Nine on Nine,3.5,148,$$$,American (New),40.44361,-79.99804,900 Penn Ave,Pittsburgh, PA 15222
+Thai Spoon,4.0,109,$$,Thai,40.395320892334,-80.0346221923828,1409 Potomac Ave,Pittsburgh, PA 15216
+Scratch Food & Beverage,4.0,99,$$,Cocktail Bars,40.4640926,-79.982555,1720 Lowrie St,Pittsburgh, PA 15212
+Pizza Perfectta,4.0,100,$$,Pizza,40.45723,-79.92535,258 S Highland Ave,Pittsburgh, PA 15206
+Sarafino's Pasta and Pizza,4.0,90,$$,Italian,40.43557,-80.06555,40 E Crafton Ave,Pittsburgh, PA 15205
+Cafe Zinho,4.0,80,$$,Portuguese,40.45783,-79.92755,238 Spahr St,Pittsburgh, PA 15232
+Plum Pan Asian Kitchen,3.5,175,$$,Pan Asian,40.4595304893333,-79.9255426412946,5996 Centre Ave,Pittsburgh, PA 15206
+Ephesus Mediterranean Kitchen,3.5,109,$$,Pizza,40.43998,-80.00229,219 Fourth Ave,Pittsburgh, PA 15222
+Sesame Garden,4.5,59,$$,Chinese,40.4305206549753,-80.0075236050979,202 Shiloh St,Pittsburgh, PA 15211
+Bistro Penn,3.0,249,$$,Belgian,40.44379,-79.99716,922 Penn Ave,Pittsburgh, PA 15222
+Red Orchid,4.0,116,$$,Thai,40.5431060791016,-80.028938293457,5439 Babcock Blvd,Pittsburgh, PA 15237
+Tres Rios,4.0,101,$$,Mexican,40.4288635667625,-79.9810518659992,1719 E Carson St,Pittsburgh, PA 15203
+Pastitsio,4.0,95,$$,Greek,40.46664,-79.96426,3716 Butler St,Pittsburgh, PA 15201
+Kassab's,4.0,103,$$,Mediterranean,40.4288913,-79.9860781,1207 E Carson St,Pittsburgh, PA 15203
+Bangkok Balcony,3.5,171,$$,Thai,40.43776,-79.92117,5846 Forbes Ave,Pittsburgh, PA 15217
+Burgh'ers,4.0,92,$$,Burgers,40.46554,-79.96538,3601 Butler St,Pittsburgh, PA 15201
+SLICE on Broadway,4.0,93,$,Pizza,40.40414,-80.03055,2128 Broadway Ave,Pittsburgh, PA 15216
+Murray Avenue Grill,3.5,126,$$,American (New),40.43726,-79.9231,1720 Murray Ave,Pittsburgh, PA 15217
+Lola Bistro,4.0,54,$$,American (New),40.45366,-80.01691,1100 Galveston Ave,Pittsburgh, PA 15233
+Ritters Diner,3.5,201,$,Diners,40.45639,-79.94125,5221 Baum Blvd,Pittsburgh, PA 15224
+Mike & Tony's Gyros,4.0,71,$,Greek,40.4286651611328,-79.9835357666016,1414 E Carson St,Pittsburgh, PA 15203
+Hokkaido Seafood Buffet,3.5,200,$$,Sushi Bars,40.415471086358,-79.924143279002,4612 Browns Hill Rd,Pittsburgh, PA 15217
+Las Velas,3.5,204,$$,Mexican,40.440991710595,-80.0021608043881,21 Market Sq,Pittsburgh, PA 15222
+Emporio: A Meatball Joint,4.0,77,$$,American (New),40.44398,-79.99644,942 Penn Ave,Pittsburgh, PA 15222
+Franktuary,3.5,279,$$,Hot Dogs,40.467054,-79.96398,3810 Butler St,Lower Lawrenceville, PA 15201
+Beer Emporium,3.5,171,$$,Belgian,40.45998,-79.93084,302 S Saint Clair St,Pittsburgh, PA 15206
+Kelly's Bar & Lounge,3.5,147,$$,Lounges,40.4599920866432,-79.9244865083206,6012 Penn Cir S,Pittsburgh, PA 15206
+Revel + Roost,3.5,170,$$,Bars,40.4402411320264,-80.0016349497375,242 Forbes Ave,Pittsburgh, PA 15222
+Peppi's,4.0,70,$,Burgers,40.45023,-79.98565,1721 Penn Ave,Pittsburgh, PA 15222
+Apsara Cafe,4.0,75,$$,Thai,40.4289688290244,-79.9817368981476,1703 E Carson St,Pittsburgh, PA 15203
+Hal's Bar and Grill,4.0,108,$$,American (Traditional),40.5249585,-80.0159285,3225 Babcock Blvd,Pittsburgh, PA 15237
+Or, The Whale,4.0,93,$$,Seafood,40.4372763,-79.9985072,463 Blvd of the Allies,Pittsburgh, PA 15219
+Angkor Restaurant,4.0,104,$$,Cambodian,40.42746,-80.05575,2350 Noblestown Rd,Pittsburgh, PA 15205
+La Feria,4.0,88,$$,Latin American,40.45171,-79.93283,5527 Walnut St,Pittsburgh, PA 15232
+Pallantia Tapas de España,4.0,93,$$,Bars,40.4512138366699,-79.9322814941406,810 Ivy St,Pittsburgh, PA 15232
+Bella Notte,3.5,133,$$,Pizza,40.4508375,-79.9839077,1914 Penn Ave,Pittsburgh, PA 15222
+People's Indian Restaurant,4.0,103,$$,Indian,40.46494,-79.94122,5147 Penn Ave,Pittsburgh, PA 15224
+Willow Restaurant,4.0,126,$$,American (New),40.5210099,-80.07652,634 Camp Horne Rd,Pittsburgh, PA 15237
+Nadine's,4.0,87,$,American (Traditional),40.4263877868652,-79.9672088623047,19 S 27th St,Pittsburgh, PA 15203
+The Abbey on Butler Street,3.5,180,$$,Bars,40.47381,-79.95838,4635 Butler St,Pittsburgh, PA 15201
+Curry on Murray,3.5,117,$$,Thai,40.43310546875,-79.9227600097656,2121 Murray Ave,Fl 1,Pittsburgh, PA 15217
+Pizzuvio,4.5,33,$$,Pizza,40.4401086813384,-80.001084943744,268 Forbes Ave,Pittsburgh, PA 15222
+Lot 17,4.0,103,$$,American (Traditional),40.46257,-79.95013,4617 Liberty Ave,Pittsburgh, PA 15224
+Barb's Corner Kitchen,4.0,90,$,Breakfast & Brunch,40.47449,-79.95791,4711 Butler St,Pittsburgh, PA 15201
+Sam's Sun Sandwich,4.5,35,$,Sandwiches,40.38494,-79.9784899,2616 Brownsville Rd,Pittsburgh, PA 15227
+Social,3.0,207,$$,American (New),40.4567094758718,-79.9161638968201,6425 Penn Ave,Pittsburgh, PA 15206
+Morton's The Steakhouse,3.5,87,$$$$,Steakhouses,40.4423828265526,-80.0008723139762,625 Liberty Ave,Ste 180,Pittsburgh, PA 15222
+Pamela's,4.0,79,$,Breakfast & Brunch,40.4814999,-79.97426,232 North Ave,Pittsburgh, PA 15209
+Poros,3.5,139,$$,Mediterranean,40.440217279135,-80.0029219128281,2 Ppg Pl,Pittsburgh, PA 15222
+Gasoline Street Coffee,4.5,28,$,Coffee & Tea,40.4353844921677,-79.9956249180388,643 1st Ave,Pittsburgh, PA 15219
+Union Standard,4.0,91,$$$,American (New),40.4404796539702,-79.997137312255,524 William Penn Pl,Pittsburgh, PA 15219
+The Fire Side Public House,3.5,132,$$,American (New),40.46038,-79.91937,6290 Broad St,Pittsburgh, PA 15206
+Senti Restaurant & Wine Bar,4.0,81,$$$,Italian,40.4642168797698,-79.9663847326097,3473 Butler St,Pittsburgh, PA 15201
+Pelegrino's Pizza & Pasta,4.0,65,$$,Italian,40.5286741,-80.0070119,4846 McKnight Rd,Pittsburgh, PA 15237
+The Foundry Table & Tap,3.5,110,$$,Gastropubs,40.445708,-80.0117417,381 N Shore Dr,Pittsburgh, PA 15212
+Turkish Grille,4.5,42,$$,Turkish,40.4521037,-79.9506159,272 Melwood Ave,Pittsburgh, PA 15213
+Birmingham Bridge Tavern,4.0,66,$$,Bars,40.42456,-79.96449,2901 Sarah St,Pittsburgh, PA 15203
+Silk Road Gourmet Chinese,4.0,100,$$,Chinese,40.3591070735614,-80.0020897817535,5301 Grove Rd,Ste 1,Pittsburgh, PA 15236
+Nakama,3.0,289,$$,Japanese,40.42898,-79.98222,1611 E Carson St,Pittsburgh, PA 15203
+Green Pepper,3.5,136,$$,Karaoke,40.434176,-79.922987,2020 Murray Ave,Pittsburgh, PA 15217
+Armstrong's,4.0,102,$$,Diners,40.3596095475076,-80.00244140625,5299 Grove Rd,Caste Village Shoppes,Pittsburgh, PA 15236
+Social House Seven,3.5,187,$$,Asian Fusion,40.4438806,-80.0003838,123 7th St,Pittsburgh, PA 15222
+The Inn on Negley,4.5,36,$$$,Bed & Breakfast,40.45336,-79.93149,703 S Negley Ave,Pittsburgh, PA 15232
+Hemingway's Cafe,3.5,111,$,Dive Bars,40.44225,-79.9562399,3911 Forbes Ave,Pittsburgh, PA 15213
+Diamond Market Bar & Grill,3.5,170,$$,Bars,40.440995,-80.002186,430 Market St,Pittsburgh, PA 15222
+Thai Cottage,4.0,78,$$,Thai,40.4325718,-79.893728,1109 S Braddock Ave,Regent Square,Pittsburgh, PA 15218
+Uncle Sam's Submarines,4.0,92,$,Sandwiches,40.4378475932928,-79.9228814522573,5808 Forbes Ave,Pittsburgh, PA 15217
+La Tavola Italiana,3.5,120,$$,Pizza,40.4267845153809,-80.0056533813477,1 Boggs Ave,Pittsburgh, PA 15211
+First Watch,4.5,63,$$,Coffee & Tea,40.3438799311459,-79.9703400582075,5235 Clairton Blvd,Pittsburgh, PA 15236
+Pho Kim 88,4.0,129,$$,Vietnamese,40.3603668212891,-80.0290145874023,4100 Library Rd,Pittsburgh, PA 15234
+BD's Mongolian Grill,3.5,147,$$,Mongolian,40.42812,-79.96605,428 S 27th St,Pittsburgh, PA 15203
+Pho Minh,4.0,89,$,Vietnamese,40.46543,-79.94452,4917 Penn Ave,Pittsburgh, PA 15224
+Local Bar + Kitchen,3.0,201,$$,Bars,40.429,-79.9828,1515 E Carson St,Pittsburgh, PA 15203
+Primanti Bros.,3.5,142,$,Sandwiches,40.42843,-79.97932,1832 E Carson St,Pittsburgh, PA 15203
+Ali Baba,3.5,113,$$,Middle Eastern,40.4449603,-79.9489094,404 S Craig St,Pittsburgh, PA 15213
+Lulu's Noodles,2.5,368,$,Chinese,40.44514,-79.94904,400 S Craig St,Pittsburgh, PA 15213
+Squirrel Hill Cafe,4.0,90,$,Pubs,40.43791,-79.92267,5802 Forbes Ave,Pittsburgh, PA 15217
+Make Your Mark,4.0,48,$,Coffee & Tea,40.45029,-79.91457,6736 Reynolds St,Pittsburgh, PA 15206
+Eat Unique,3.5,130,$,Delis,40.44565,-79.94849,305 S Craig St,Pittsburgh, PA 15213
+Ki Ramen,3.5,113,$$,Ramen,40.4717,-79.95989,4401 Butler St,Pittsburgh, PA 15201
+Blue Sparrow Food Truck,5.0,20,$,Food Trucks,40.46675,-79.96403,3800 Butler St,Pittsburgh, PA 15201
+Eggs-R-Us,4.0,96,$,Breakfast & Brunch,40.42746,-80.05575,2350 Noblestown Rd,Ste 13,Pittsburgh, PA 15205
+Los Cabos Mexican Restaurant,3.5,116,$,Mexican,40.46554,-79.95458,4108-10 Penn Ave,Pittsburgh, PA 15224
+North Shore Deli,5.0,24,$,Delis,40.45352,-79.99927,539 E Ohio St,Pittsburgh, PA 15212
+Smokin' Joe's,4.0,84,$,Bars,40.4286461,-79.9776187,2001 E Carson St,Pittsburgh, PA 15203
+Le Mont,3.5,157,$$$,American (Traditional),40.4377861022949,-80.0177993774414,1114 Grandview Ave,Pittsburgh, PA 15211
+Uncle Sam's Submarines,4.0,86,$,Sandwiches,40.4412223454076,-79.9567410311412,210 Oakland Ave,Pittsburgh, PA 15213
+Packs & Dogs,4.0,68,$,Bars,40.4298201,-80.0071764,223 Shiloh St,Pittsburgh, PA 15211
+The BeerHive,3.5,95,$$,American (New),40.4522,-79.98282,2117 Penn Ave,Pittsburgh, PA 15222
+Storms Restaurant & Catering,4.0,51,$$,Italian,40.43851,-79.99836,429 4th Ave,Pittsburgh, PA 15219
+Bea Taco Town,4.0,70,$,Mexican,40.402162,-80.0414234,2957 Banksville Rd,Pittsburgh, PA 15216
+My Thai,4.0,68,$$,Thai,40.3930420493059,-80.0370368071787,3024 W Liberty Ave,Pittsburgh, PA 15216
+Pittsburgh Barbecue Company,4.0,72,$$,Barbeque,40.4198992597363,-80.0300516362457,1000 Banksville Rd,Pittsburgh, PA 15216
+Vallozzis Pittsburgh,3.5,99,$$$,Italian,40.4411279,-80.0014571,220 5th Ave,Pittsburgh, PA 15222
+DiBella's Subs,4.0,71,$,Sandwiches,40.4406668689324,-80.0021109338623,16 Market Sq,Pittsburgh, PA 15222
+Caliente Pizza & Drafthouse,3.0,220,$$,Pizza,40.4620358,-79.9501025,4624 Liberty Ave,Pittsburgh, PA 15224
+Palmyra Mediterrean Cuisine,4.5,40,$,Mediterranean,40.43691,-80.00046,10 Smithfield St,Pittsburgh, PA 15222
+Yeung's House,4.5,52,$,Chinese,40.5206565856934,-80.0333251953125,463 Perry Hwy,Pittsburgh, PA 15229
+Kickback Pinball Cafe,4.5,36,$,Arcades,40.4712221,-79.9598367,4326 Butler St,Pittsburgh, PA 15201
+Bistro To Go,4.5,47,$$,Salad,40.45329,-80.00109,415 E Ohio St,Ste A,Pittsburgh, PA 15212
+Yovi's,4.5,59,$,Fast Food,40.4413090844808,-80.002800822258,477 Graeme St Market Sq,Pittsburgh, PA 15222
+Nox's Tavern and Grille,4.5,29,$$,Bars,40.4925,-79.86261,720 Blaw Ave,Pittsburgh, PA 15238
+Gluten Free Goat Bakery,4.5,31,$$,Gluten-Free,40.4654288112786,-79.9450539512714,4905 Penn Ave,Pittsburgh, PA 15224
+Grandma B's,4.5,30,$,Halal,40.4487686,-79.9705276,2537 Wylie Ave,Pittsburgh, PA 15219
+V3 Flatbread Pizza,4.0,52,$,Pizza,40.4423699,-80.0028899,11 Fifth Ave,Pittsburgh, PA 15222
+Friendship Perk And Brew,4.5,35,$,Cafes,40.46199,-79.94066,300 S Pacific Ave,Pittsburgh, PA 15224
+Mezzo,4.0,60,$$,Italian,40.443983,-79.9964184,942 Penn Ave,Fl 2,Pittsburgh, PA 15222
+Roland's Seafood Grill,2.5,300,$$,Seafood,40.45062,-79.98422,1904 Penn Ave,Pittsburgh, PA 15222
+Conicella Pizza,4.5,37,$,Pizza,40.4252,-79.94285,422 Greenfield Ave,Pittsburgh, PA 15207
+La Gondola Pizzeria & Restaurant,4.0,44,$,Pizza,40.44016,-80.00246,4 Market Sq,Pittsburgh, PA 15222
+Sidelines Bar & Grill,4.0,80,$$,Dive Bars,40.4854888,-79.9723216,621 Evergreen Ave,Pittsburgh, PA 15209
+Sushi Kim Restaurant,3.5,128,$$,Sushi Bars,40.4465,-79.99164,1241 Penn Ave,Pittsburgh, PA 15222
+honeygrow,4.0,52,$$,American (Traditional),40.461076,-79.9247260798226,105 S Highland Ave,Pittsburgh, PA 15206
+Jolina's Mediterranean Cuisine,4.5,25,$$,Mediterranean,40.3919615596533,-80.0171586871147,1011 Brookline Blvd,Pittsburgh, PA 15226
+Groceria Merante,5.0,26,$,Grocery,40.436570898681,-79.955387606365,3454 Bates St,Pittsburgh, PA 15213
+Primanti Bros.,3.5,122,$,Sandwiches,40.444368,-80.100036,4501 Steubenville Pike,Pittsburgh, PA 15205
+Needle and Pin,4.0,86,$$,Cocktail Bars,40.3894540925285,-80.0419438715922,3271 W Liberty Ave,Pittsburgh, PA 15216
+Spirit Lodge,4.0,71,$$,Pizza,40.4783659,-79.9559733,242 51st St,Pittsburgh, PA 15201
+Feng Japanese Steak Hibachi & Sushi House,4.0,88,$$,Sushi Bars,40.4639582,-79.9528867,4305 Main St,Pittsburgh, PA 15224
+The Carlton,3.5,84,$$$,Diners,40.4396782,-79.9959316,500 Grant St,BNY Mellon Center,Pittsburgh, PA 15219
+Luma Restaurant,3.5,72,$$$,American (New),40.37745,-80.040797,186 Castle Shannon Blvd,Pittsburgh, PA 15228
+61C Cafe,3.5,92,$,Coffee & Tea,40.4365826,-79.9227335,1839 Murray Ave,Pittsburgh, PA 15217
+The Modern Cafe,4.0,59,$$,Sports Bars,40.4521369710481,-80.0163849270439,862 Western Ave,Pittsburgh, PA 15233
+Dancing Crab Thai Noodle House,4.5,45,$$,Thai,40.42817,-79.97513,2126 E Carson St,Pittsburgh, PA 15203
+Kevin's Deli,4.5,32,$,Delis,40.4469698,-79.9507326,101 N Dithridge St,Pittsburgh, PA 15213
+Angelo's Pizzeria,4.0,67,$,Pizza,40.46082,-79.9479,4766 Liberty Ave,Pittsburgh, PA 15224
+Sun Penang,3.0,151,$$,Malaysian,40.4382499,-79.92183,5829 Forbes Ave,Pittsburgh, PA 15217
+Silky's Pub,3.5,71,$$,Pubs,40.45827,-79.94227,5135 Liberty Ave,Pittsburgh, PA 15224
+Hello Bistro,3.5,68,$,Salad,40.428359,-79.978196,1922 E Carson St,Pittsburgh, PA 15203
+Zarra's A Taste of Southern Italy,4.0,95,$$,Italian,40.4547538757324,-79.954216003418,3887 Bigelow Blvd,Pittsburgh, PA 15213
+Wheelfish,4.0,67,$$,Bars,40.5394096374512,-79.9916687011719,635 Sangree Rd,Pittsburgh, PA 15237
+Cucina Vitale,4.0,62,$$,Italian,40.4274712,-79.969101,2516 E Carson St,Pittsburgh, PA 15203
+Katana,3.0,125,$$,Sushi Bars,40.38996,-80.04063,3229 W Liberty Ave,Pittsburgh, PA 15216
+Sesame Inn,3.5,95,$$,Chinese,40.5464464830287,-80.01902927919,711 Browns Ln,Pittsburgh, PA 15237
+SoHo,3.0,124,$$,American (New),40.4483696872966,-80.0044366171967,203 Federal St,Pittsburgh, PA 15212
+Burgatory,4.0,279,$$,Burgers,40.4071527935134,-79.9177637822221,299 W Bridge St,Homestead, PA 15120
+Federal Galley,4.0,51,$$,American (New),40.4515218945917,-80.0060152023773,200 Children's Way,Pittsburgh, PA 15212
+Patron Mexican Grill,3.5,110,$$,Mexican,40.460170134902,-79.9249215424061,133 S Highland Ave,Pittsburgh, PA 15206
+Jozsa Corner,4.0,47,$$,Hungarian,40.4113839480315,-79.9448446263733,4800 2nd Ave,Pittsburgh, PA 15207
+Harris Grill,4.0,39,$$,American (Traditional),40.43965,-80.00156,245 4th Ave,Pittsburgh, PA 15222
+William Penn Tavern,3.5,86,$,Sports Bars,40.451445220945,-79.933732551313,739 Bellefonte St,Pittsburgh, PA 15232
+Sushi & Rolls,4.5,34,$$,Sushi Bars,40.4381256103516,-79.9988174438477,301 Grant St,Ste 3,Pittsburgh, PA 15219
+Bulldog Pub,4.5,43,$$,Pubs,40.4867643946851,-79.9268399792984,1818 Morningside Ave,Pittsburgh, PA 15206
+Top Shabu-Shabu & Lounge,3.5,76,$$,Hot Pot,40.4412193,-79.9580231,114 Atwood St,Pittsburgh, PA 15213
+Thai Hana,3.5,116,$$,Thai,40.4415006,-79.958821,3608 5th Ave,Pittsburgh, PA 15213
+Giovanni's Pizza & Pasta,3.0,152,$$,Pizza,40.443400926204,-80.0024984675644,123 6th St,Pittsburgh, PA 15222
+Everyday's A Sundae,4.0,27,$,Sandwiches,40.4601050478002,-79.9242326811995,6014 Centre Ave,Pittsburgh, PA 15206
+Hunan Bar,4.0,50,$$,Szechuan,40.44029,-79.95627,239 Atwood St,Pittsburgh, PA 15213
+City Works - Pittsburgh,3.0,149,$$,Sports Bars,40.4404255,-80.0032706,2 Ppg Pl,Pittsburgh, PA 15222
+Roman Bistro,3.0,125,$$,Italian,40.419454,-79.850259,2104 Ardmore Blvd,Pittsburgh, PA 15221
+Grandview Saloon,3.0,121,$$,Steakhouses,40.4381637573242,-80.0185165405273,1212 Grandview Ave,Pittsburgh, PA 15211
+Wai Wai Chinese Cuisine,3.5,115,$,Chinese,40.46206,-79.94917,4717 Liberty Ave,Pittsburgh, PA 15224
+Cafe Milano,3.5,65,$$,Pizza,40.4431,-80.00263,134 6th St,Pittsburgh, PA 15222
+Someone Else's Bar,4.0,62,$$,Bars,40.36487,-80.02609,3841 Willow Ave,Pittsburgh, PA 15234
+August Henry's City Saloon,3.5,113,$$,American (Traditional),40.4441296,-79.9963361,946 Penn Ave,Pittsburgh, PA 15222
+Tavern 51,4.5,29,$$,Bars,40.35708,-79.9811,4604 Clairton Blvd,Pittsburgh, PA 15236
+Peppi's,4.0,33,$,Sandwiches,40.43698,-80.00046,12 Smithfield St,Pittsburgh, PA 15222
+Aladdin's Eatery,4.0,60,$$,Middle Eastern,40.487933,-79.8873629,929 Freeport Rd,Pittsburgh, PA 15240
+Drew's Family Restaurant,4.0,72,$$,Diners,40.42045596235,-79.8513937632293,2060 Ardmore Blvd,Pittsburgh, PA 15221
+Nak Won Garden,3.5,83,$$,Korean,40.4565667,-79.936316,5504 Centre Ave,Pittsburgh, PA 15232
+Hambone's Neighborhood Bar and Grill,3.5,76,$,Pubs,40.470474,-79.960431,4207 Butler St,Pittsburgh, PA 15201
+The Urban Tap,3.5,82,$$,Gastropubs,40.45835,-79.92533,216 S Highland Ave,Pittsburgh, PA 15206
+5801 Video Lounge and Café,4.0,71,$$,Gay Bars,40.45642,-79.93077,5801 Ellsworth Ave,Pittsburgh, PA 15232
+I Tea Cafe,3.5,72,$$,Taiwanese,40.45219,-79.93422,709 Bellefonte St,Pittsburgh, PA 15232
+Nancy's East End Diner,4.0,40,$,Diners,40.442131,-79.8861923,616 South Ave,Pittsburgh, PA 15221
+The Mediterranean Grill,4.0,53,$$,Mediterranean,40.4378,-79.92188,5824 Forbes Ave,Pittsburgh, PA 15217
+McCormick & Schmick's Seafood & Steaks,3.0,117,$$$,Seafood,40.4412400187265,-79.9997471272945,301 5th Ave,Pittsburgh, PA 15222
+Yuzu Kitchen,4.0,49,$$,Ramen,40.439707,-80.001261,409 Wood St,Pittsburgh, PA 15222
+O'Leary's,4.0,46,$,Diners,40.42866,-79.98361,1412 E Carson St,Pittsburgh, PA 15289
+Coriander India Grill,3.0,132,$$,Indian,40.432679488831,-79.9230366716692,2201 Murray Ave,Pittsburgh, PA 15217
+Cafe Sam,4.0,70,$$,American (New),40.45623,-79.940244,5242 Baum Blvd,Pittsburgh, PA 15224
+BFG Café,4.5,44,$,Pizza,40.4647568,-79.9375719,5335 Penn Ave,Pittsburgh, PA 15224
+Tan Izakaya,3.5,81,$$,Sushi Bars,40.4505004882812,-79.9351501464844,815 S Aiken Ave,Pittsburgh, PA 15232
+Ka Mei,3.5,76,$$,Cantonese,40.4325103759766,-79.9228363037109,2209 Murray Ave,Pittsburgh, PA 15217
+Steel Cactus,2.5,239,$$,Mexican,40.451361907361,-79.933597549993,5505 Walnut St,Pittsburgh, PA 15232
+Lydiah's Coffee House,4.5,25,$,African,40.4371691,-79.9981261,200 Grant St,Pittsburgh, PA 15219
+Korea Garden,3.5,91,$$,Korean,40.4366111755371,-79.9547348022461,414 Semple St,Pittsburgh, PA 15213
+California Coffee Bar,4.5,24,$,Coffee & Tea,40.48072,-80.04153,3619 California Ave,Pittsburgh, PA 15212
+Pita Pit,4.0,46,$,Mediterranean,40.426647,-79.965902,2763 East Carson St,Pittsburgh, PA 15203
+Redbeard's On Sixth,3.0,138,$$,American (Traditional),40.4423244,-80.0019849,144 6th St,Pittsburgh, PA 15222
+Redbeard's Sports Bar & Grill,3.5,104,$$,American (New),40.4305935,-80.0072307,201 Shiloh St,Pittsburgh, PA 15211
+Dive Bar and Grille,4.5,34,$$,Bars,40.4282689466744,-79.9750921376019,2132 East Carson St,Pittsburgh, PA 15203
+Don's Diner,5.0,15,$,Diners,40.4716476,-80.037313,1729 Eckert St,Pittsburgh, PA 15212
+Wild Rosemary,4.0,50,$$$,American (New),40.361915,-80.093232,1469 Bower Hill Rd,Pittsburgh, PA 15241
+Hello Bistro,3.0,92,$,Salad,40.4400944709778,-80.0010473281145,292 Forbes Ave,Pittsburgh, PA 15222
+Floor 2,4.0,35,$$,American (New),40.44153,-80.0018599,510 Market St,Pittsburgh, PA 15222
+Pamelas Diner,3.5,89,$,Diners,40.38601,-80.04357,427 Washington Rd,Pittsburgh, PA 15228
+Stoke's Grill,3.5,103,$$,Sandwiches,40.5207061767578,-80.0057754516602,4771 McKnight Rd,Pittsburgh, PA 15237
+Amel's Restaurant,4.0,69,$$,Mediterranean,40.3830692,-80.0155838,435 McNeilly Rd,Pittsburgh, PA 15226
+Chengdu Gourmet,3.5,93,$$,Chinese,40.4295421034818,-79.9223725553359,5840 Forward Ave,Pittsburgh, PA 15217
+Stack'd Burgers & Beer - Oakland,3.5,74,$$,American (Traditional),40.44133,-79.95689,3716 Forbes Ave,Pittsburgh, PA 15213
+Lucca,3.5,99,$$,Italian,40.44518,-79.94849,317 S Craig St,Pittsburgh, PA 15213
+Cain's Saloon,3.0,143,$$,American (Traditional),40.38972,-80.0409,3239 W Liberty Ave,Pittsburgh, PA 15216
+Hard Rock Cafe,3.0,122,$$,Bars,40.433814356751,-80.0049549713731,230 W Station Sq Dr,Pittsburgh, PA 15219
+Stinky's Bar & Grill,4.0,43,$$,American (Traditional),40.47774,-79.95778,4901 Hatfield St,Pittsburgh, PA 15201
+Cornerstone Restaurant & Bar,3.5,109,$$,American (New),40.4895782470703,-79.9032897949219,301 Freeport Rd,Pittsburgh, PA 15215
+Remedy,3.5,57,$,American (New),40.479006,-79.955536,5121 Butler St,Pittsburgh, PA 15201
+The Mintt,3.5,106,$$,Indian,40.40109,-80.04244,3033 Banksville Rd,Pittsburgh, PA 15216
+Deli On North Avenue,4.5,23,$,Delis,40.4557,-80.00642,4 E North Ave,Pittsburgh, PA 15212
+Leon's Caribbean Restaurant,4.5,28,$,Caribbean,40.4219627,-79.9928207,823 E Warrington Ave,Pittsburgh, PA 15210
+Alexander's Italian Bistro,3.5,106,$$,Italian,40.45845,-79.94368,5104 Liberty Ave,Pittsburgh, PA 15224
+Thai & Noodle Outlet,3.5,52,$$,Thai,40.43817,-79.92238,5813 Forbes Ave,Pittsburgh, PA 15217
+Corner Mercantile,4.5,23,$,Desserts,40.44035,-80.00046,472 Wood St,Pittsburgh, PA 15222
+Joe's Crab Shack,3.0,94,$$,Seafood,40.4338974,-80.0042753,226 W Station Square Dr,Pittsburgh, PA 15219
+Allegheny Sandwich Shoppe,4.0,37,$,Breakfast & Brunch,40.4523081,-80.0150592,822 Western Ave,Pittsburgh, PA 15233
+Zen's Noodle House,4.0,39,,Ramen,40.44066,-79.95869,3531 Forbes Ave,Pittsburgh, PA 15213
+Szechuan Spice,4.0,42,$$,Chinese,40.45701,-79.93346,5700 Centre Ave,Pittsburgh, PA 15206
+Umai,3.5,68,$$,Sushi Bars,40.38857,-80.0494499,297 Beverly Rd,Pittsburgh, PA 15216
+Oya Sushi & Korean Grill,4.0,53,$$,Sushi Bars,40.36948,-80.03506,325 Mt Lebanon Blvd,Pittsburgh, PA 15234
+Salonika Gyros,3.5,55,$,Mediterranean,40.44329,-80.00219,133 6th St,Pittsburgh, PA 15222
+Creekhouse,3.5,88,$$,Bars,40.44025,-80.08094,288 W Steuben St,Pittsburgh, PA 15205
+Terrace Room,3.5,70,$$$,Modern European,40.4405937194824,-79.9965896606445,530 William Penn Pl,Pittsburgh, PA 15219
+Cavo Nightclub,4.0,54,$$,American (New),40.4515167,-79.9849613,1916 Smallman St,Pittsburgh, PA 15222
+Chateau Café & Cakery,4.0,37,$,Cafes,40.4544720399333,-80.0324073579468,1501 Preble Ave,Fl 1,Pittsburgh, PA 15233
+Cinderlands Beer,4.5,27,$$,Brewpubs,40.46652,-79.96484,3705 Butler St,Pittsburgh, PA 15201
+Monte Cello's,4.0,46,$$,Pizza,40.5112380981445,-79.9930038452148,2198 Babcock Blvd,Pittsburgh, PA 15209
+Sawasdee Thai & Sushi,4.0,48,$$,Thai,40.3518600673396,-80.0501363621796,112 Abbeyville Rd,Pittsburgh, PA 15228
+McCormick & Schmick's Seafood & Steaks,2.5,125,$$,Seafood,40.4281377050329,-79.9664806489545,2667 Sidney St,Pittsburgh, PA 15203
+Love Yogurt,4.0,42,$,Desserts,40.44053,-79.9565499,229 Atwood St,Pittsburgh, PA 15213
+South Side BBQ Company,4.0,26,$$,Food Trucks,40.42937,-79.9818,75 S 17th St,Pittsburgh, PA 15203
+Bartram House Bakery & Cafe,3.5,74,$$,Cafes,40.4273144155741,-79.9680065363646,2612 E Carson St,Pittsburgh, PA 15203
+Mario's South Side Saloon,3.0,89,$$,Sports Bars,40.4287252,-79.9828528,1514 E Carson St,Pittsburgh, PA 15203
+Yuva India Kitchen + Bar,3.0,110,$$,Indian,40.44477,-79.94888,412 S Craig St,Pittsburgh, PA 15213
+Moonlite Cafe,4.5,28,$$,Italian,40.39546,-80.0229,530 Brookline Blvd,Pittsburgh, PA 15226
+Red Tea House,4.0,55,$$,Chinese,40.3918384616979,-80.0670470873108,1717 Cochran Rd,Pittsburgh, PA 15220
+Pizza Milano,3.5,78,$$,Pizza,40.43845,-79.98798,1304 5th Ave,Pittsburgh, PA 15219
+Threadbare Cider House,4.5,24,$$,Pizza,40.4605889961782,-79.9889525540497,1291 Spring Garden Ave,Pittsburgh, PA 15212
+Sesame Inn Chinese Restaurant,3.5,71,$$,Chinese,40.3796549064882,-80.0448643437995,715 Washington Rd,Pittsburgh, PA 15228
+Prince of India,3.5,93,$$,Indian,40.4416275024414,-79.9585952758789,3614 5th Ave,Pittsburgh, PA 15213
+Santoro's Pizzeria Italiana,4.5,46,$,Pizza,40.3658059,-80.0251276,3805 Willow Ave,Pittsburgh, PA 15234
+Original Oyster House,3.0,127,$,Seafood,40.44096,-80.00201,20 Market Sq,Pittsburgh, PA 15222
+Lebo Subs,4.0,46,$,Sandwiches,40.3819604,-80.0443604,632 Washington Rd,Pittsburgh, PA 15228
+Sushi Too,3.0,116,$$,Sushi Bars,40.45077,-79.93416,5432 Walnut St,Pittsburgh, PA 15232
+Food For Thought Deli,4.0,29,$,Delis,40.4495975375175,-79.9505527317524,194 N Craig St,Pittsburgh, PA 15213
+Baby Loves Tacos,4.5,34,$$,Tacos,40.46272,-79.95166,4508 Liberty Ave,Pittsburgh, PA 15224
+Bill's Bar & Burger,3.0,149,$$,Burgers,40.44427,-79.99456,Westin Convention Center,1001 Liberty Ave,Pittsburgh, PA 15222
+Amazing Wok,4.0,46,$,Chinese,40.3947584,-80.0349029,2910 W Liberty Ave,Ste 1,Pittsburgh, PA 15216
+Sree's Foods,4.0,52,$,Indian,40.44303,-79.99687,701 Smithfield St,Pittsburgh, PA 15222
+Chipotle Mexican Grill,3.5,59,$,Mexican,40.4409762,-79.9579937,3615 Forbes Ave,Pittsburgh, PA 15213
+Z-Best BBQ,4.0,30,$$,Barbeque,40.43888,-79.98755,1315 5th Ave,Pittsburgh, PA 15219
+Blue Dust,4.0,146,$$,Gastropubs,40.40793,-79.91154,601 Amity St,Homestead, PA 15120
+Café Cravings,4.0,32,$,Cafes,40.43181,-80.01558,402 Bigham St,Pittsburgh, PA 15211
+Wings Over Pittsburgh,3.5,56,$$,Chicken Wings,40.4276575,-79.9690715,2525 E Carson St,Pittsburgh, PA 15203
+E Town Bar and Grille,4.5,34,$,American (Traditional),40.495304,-79.94511,304 Butler St,Pittsburgh, PA 15223
+The Dream BBQ,4.5,26,$$,Barbeque,40.453037664198,-79.8911726474762,7600 N Braddock Ave,Pittsburgh, PA 15208
+Indian Spices,3.5,57,$$,Indian,40.443359375,-80.0021667480469,129 6th St,Pittsburgh, PA 15222
+Mad Mex - South Hills,3.0,110,$$,Tex-Mex,40.390689428451,-80.0726191732941,Scott Towne Center,2101 Greentree Rd,Pittsburgh, PA 15220
+Rivertowne,3.0,114,$$,American (New),40.44586,-80.01051,337 N Shore Dr,Pittsburgh, PA 15212
+Grand View Buffet,3.0,85,$$,Buffets,40.447428,-80.022353,777 Casino Dr,Pittsburgh, PA 15212
+Beta Bites,4.0,57,$,American (New),40.44003,-79.95325,338 S Bouquet St,Pittsburgh, PA 15213
+Jimmy Wans,3.5,90,$$,Chinese,40.4889144897461,-79.8745422363281,1337 Old Freeport Rd,Pittsburgh, PA 15238
+Napoli Pizzeria,4.0,54,$,Pizza,40.434399,-79.9229828,2006 Murray Ave,Pittsburgh, PA 15217
+Joe & Pie,3.0,75,$,Pizza,40.4434978601315,-79.9959591244145,955 Liberty Ave,Pittsburgh, PA 15222
+Talia Cucina & Rosticceria,3.5,53,$$$,Italian,40.441466,-79.996787,425 6th Ave,Pittsburgh, PA 15219
+India on Wheels,4.0,43,$,Indian,40.4474089,-79.9537764,4422 Bigelow Blvd,Pittsburgh, PA 15213
+Rowdy BBQ,4.0,61,$,Barbeque,40.370574,-79.982416,3900 Saw Mill Run Blvd,Pittsburgh, PA 15227
+Pizza Italia,4.0,51,$$,Pizza,40.46266,-79.95154,4512 Liberty Ave,Pittsburgh, PA 15224
+Jamison's On West Liberty,4.5,30,$,Pubs,40.3910446,-80.0391235,3113 W Liberty Ave,Pittsburgh, PA 15216
+51 Wings and Things,4.0,44,$,Chicken Wings,40.3713729,-79.9820868,4022 Saw Mill Run Blvd,Pittsburgh, PA 15227
+Lesvos Gyros,4.0,39,$,Greek,40.42868,-79.98321,1502 E Carson St,Pittsburgh, PA 15203
+Lin's Asian Fusion,3.5,92,$$,Asian Fusion,40.4283,-79.97682,2018 E Carson St,Pittsburgh, PA 15203
+Caffè d'Amore Coffeeshop,4.5,26,$,Coffee & Tea,40.48281,-79.95095,5400 Butler St,Pittsburgh, PA 15201
+Brighton Hot Dog Shoppe,4.0,25,$,Hot Dogs,40.42687,-80.05717,2401 Noblestown Rd,Pittsburgh, PA 15205
+Pusadee's Garden,4.0,298,$$,Thai,40.4827,-79.95195,5321 Butler St,Pittsburgh, PA 15201
+Jimmy John's,4.0,34,$,Sandwiches,40.43941,-79.95969,3444 Forbes Ave,Pittsburgh, PA 15213
+Twelve Whiskey Barbecue,3.5,65,$$,Barbeque,40.4286431,-79.9856482,1222 East Carson St,Pittsburgh, PA 15203
+Orbis Caffe,3.5,44,$$,Coffee & Tea,40.3811007,-80.0443322,675 Washington Rd,Pittsburgh, PA 15228
+Atria's Restaurant,3.0,95,$$,Seafood,40.4470921252328,-80.0040463809509,103 Federal St,Pittsburgh, PA 15212
+Il Burloni La Pizza E Cucina,4.0,36,$$,Italian,40.39083,-80.07095,2101 Greentree Rd,Pittsburgh, PA 15220
+The Simple Greek,3.5,60,$,Greek,40.4411266,-80.0025216,431 Market St,Pittsburgh, PA 15222
+Rico's Restaurant,4.0,46,$$$,Italian,40.514962,-80.000658,1 Rico Ln,Pittsburgh, PA 15237
+Bistro 19,4.0,147,$$,American (New),40.3801120066997,-80.0445151837606,711 Washington Rd,Mount Lebanon, PA 15228
+Bull River Taco,3.5,49,$,Tacos,40.43773,-79.92266,1707 Murray Ave,Pittsburgh, PA 15217
+Don Campiti's Pizzeria,4.0,51,$,Pizza,40.396623,-80.03579,1509 Potomac Ave,Pittsburgh, PA 15216
+Perlé,3.5,45,$$,Champagne Bars,40.4410315290901,-80.0029445849816,25 Market Square,Pittsburgh, PA 15222
+Wiggy's,4.0,44,$,Chicken Wings,40.42746,-80.05575,2350 Noblestown Rd,Pittsburgh, PA 15205
+Claddagh Irish Pub,3.0,124,$$,Pubs,40.4279062791307,-79.9652548,407 Cinema Dr,Pittsburgh, PA 15203
+Jimmy John's,3.5,35,$,Sandwiches,40.43993,-79.99704,501 Grant St,Pittsburgh, PA 15219
+Jabo's Smoke House and Saloon,3.5,77,$$,Barbeque,40.46308,-79.95227,4428 Liberty Ave,Pittsburgh, PA 15224
+Fazio's Pizza,3.5,51,$,Pizza,40.46511,-79.95679,4028 Penn Ave,Pittsburgh, PA 15224
+Ichiban Hibachi Steakhouse,3.5,66,$$,Japanese,40.4871477931738,-79.8861059546471,983 Freeport Rd,Pittsburgh, PA 15238
+Steel Cactus,3.0,123,$$,Mexican,40.42888,-79.97932,1831 E Carson St,Pittsburgh, PA 15203
+Tipsy Cow,3.5,58,$$,Burgers,40.455763,-79.931512,5741 Ellsworth Ave,Pittsburgh, PA 15232
+Bitter Ends Luncheonette,4.5,19,$,Diners,40.46257,-79.95034,4613 Liberty Ave,Pittsburgh, PA 15224
+Noodles & Company,3.0,69,$,Noodles,40.440821,-80.001773,476 McMaster Way,Pittsburgh, PA 15222
+Vincent's of Green Tree,3.5,80,$$,Pizza,40.4210420362253,-80.0501069553832,333 Mansfield Ave,Pittsburgh, PA 15220
+Sakura Teppanyaki & Sushi,3.0,99,$$,Sushi Bars,40.4377670288086,-79.919677734375,5882 Forbes Ave,Pittsburgh, PA 15217
+China Palace,3.0,103,$$,Chinese,40.450866,-79.933919,5440 Walnut St,Pittsburgh, PA 15232
+Smallman Street Deli,4.0,35,$,Delis,40.45805,-79.97517,2840 Smallman St,Pittsburgh, PA 15222
+Merante's Gifts,4.5,14,$$,Gift Shops,40.4619,-79.9490299,4723 Liberty Ave,Pittsburgh, PA 15224
+Orient Kitchen,3.0,63,$$,Chinese,40.45417,-79.947,4808 Baum Blvd,Pittsburgh, PA 15213
+Draai Laag Brewing Company,4.0,63,$$,Breweries,40.47877,-79.96818,501 E Ohio St,Millvale, PA 15209
+Orient Express,3.0,86,$,Chinese,40.44465,-79.94818,4609 Forbes Ave,Pittsburgh, PA 15213
+Five Guys,3.5,66,$,Burgers,40.442277,-79.956657,117 S Bouquet St,Pittsburgh, PA 15213
+Giovanni's Pizza & Pasta,3.5,68,$$,Pizza,40.3921276,-80.0377055,3047 W Liberty Ave,Pittsburgh, PA 15216
+Slice On Broadway,4.0,31,$,Salad,40.447106899224,-80.0041389720016,115 Federal St,Pittsburgh, PA 15212
+Le Lyonnais,3.5,49,$$,French,40.44438,-79.99648,947 Penn Ave,Pittsburgh, PA 15222
+Two Louie's Market,4.5,22,$,Sandwiches,40.44642,-79.99176,1233 Penn Ave,Pittsburgh, PA 15222
+Mad Noodles,3.0,56,$$,Bubble Tea,40.4288,-79.97688,2017 E Carson St,Pittsburgh, PA 15203
+Artisan,4.5,21,$$$,Art Galleries,40.4653383,-79.9438735,5001 Penn Ave,Pittsburgh, PA 15224
+Archie's,3.5,48,$,Chicken Wings,40.42798,-79.97174,2328 E Carson St,Pittsburgh, PA 15203
+Cappy's Cafe,3.5,63,$,Bars,40.45108,-79.93437,5431 Walnut St,Pittsburgh, PA 15232
+Park Pizza & Cream,4.0,29,$,Pizza,40.4395294943107,-79.8974228916703,7600 Forbes Ave,Pittsburgh, PA 15221
+Pino's Contemporary Italian Restaurant & Wine Bar,3.0,86,$$,Italian,40.45025,-79.91449,6738 Reynolds St,Pittsburgh, PA 15206
+Christos Mediterranean Grille,3.0,94,$$,Mediterranean,40.4432466658259,-80.0022544158648,130 6th St,Pittsburgh, PA 15222
+Mekong Restaurant,3.5,60,$$,Vietnamese,40.3958174,-80.0350524,1429 Potomac Ave,Pittsburgh, PA 15216
+Chipotle Mexican Grill,3.5,51,$,Mexican,40.4405558779084,-80.0019637537279,211 Forbes Ave,Pittsburgh, PA 15222
+California Pizza Kitchen at Ross Park,3.5,60,$$,Pizza,40.542813,-80.008753,1000 Ross Park Mall Dr,Ross Park Mall,Pittsburgh, PA 15237
+Osteria 2350,3.5,64,$$,Italian,40.4545236188797,-79.9825752939179,2350 Railroad St,Pittsburgh, PA 15222
+Arpino Trattoria,3.5,47,$$,Italian,40.394199,-80.062986,1910 Cochran Rd,Manor Oak Village,Pittsburgh, PA 15220
+China House,4.0,33,$,Chinese,40.46275,-79.95172,4506 Liberty Ave,Pittsburgh, PA 15224
+Wang's Kitchen,4.0,37,$,Chinese,40.37317,-79.97514,3625 Brownsville Rd,Pittsburgh, PA 15227
+Carbonara's Restaurant,3.5,50,$$,Pizza,40.36797,-80.03697,250 Mount Lebanon Blvd,Pittsburgh, PA 15234
+The Groove Cheesesteak Co,3.0,75,$,Cheesesteaks,40.4283180236816,-79.9775085449219,2000 E Carson St,Pittsburgh, PA 15203
+The Alcove,4.5,22,$,Sandwiches,40.4266685096849,-80.0406498659631,875 Greentree Rd,Bldg 4 Ste 106,Pittsburgh, PA 15220
+Tai Pei,3.5,68,$$,Chinese,40.487652925642,-79.880616356427,1124 Freeport Rd,Pittsburgh, PA 15238
+Crust! Cafe and Pizzeria,4.0,39,$$,Pizza,40.361997,-80.065016,509 Painters Run Rd,Pittsburgh, PA 15228
+Tong's Cuisine,3.5,37,$,Chinese,40.4394645690918,-79.9582214355469,228 Semple St,Pittsburgh, PA 15213
+Rialto Pizza,3.5,43,$,Pizza,40.4264678955078,-79.9388046264648,623 Greenfield Ave,Pittsburgh, PA 15207
+Mullaneys Harp and Fiddle,3.5,43,$$,Irish,40.45347,-79.981,2329 Penn Ave,Pittsburgh, PA 15222
+Cocina Mendoza,3.5,72,$$,Mexican,40.368716,-80.034629,300 Mt Lebanon Blvd,Pittsburgh, PA 15234
+Bakn,4.0,290,$$,Coffee & Tea,40.4095966199252,-80.0834494829178,335 E Main St,Carnegie, PA 15106
+Veltre's Pizza,4.5,26,$$,Pizza,40.42245,-79.865,1268 Brinton Rd,Pittsburgh, PA 15221
+Craftwork Kitchen,4.0,23,$,Food Court,40.441355,-79.994853,600 Grant St,USX Tower,Pittsburgh, PA 15219
+Eat'n Park,3.0,77,$,Breakfast & Brunch,40.43643,-79.92314,1816 Murray Ave,Pittsburgh, PA 15217
+Lindos Restaurant,3.5,44,$,Greek,40.45141,-80.0183,947 Western Ave,Pittsburgh, PA 15233
+Crystal On Penn,3.5,53,$$,Mediterranean,40.44612,-79.99225,1211 Penn Ave,Pittsburgh, PA 15222
+Thai Touch Kitchen,4.0,40,$$,Thai,40.38123,-80.04404,665 Washington Rd,Pittsburgh, PA 15228
+J & J's Family Restaurant & Catering,4.0,38,$,Breakfast & Brunch,40.4293582085987,-80.0074303150177,300 Shiloh St,Mt. Washington,Pittsburgh, PA 15211
+Mexi-Casa,3.0,72,$$,Mexican,40.39289,-80.03681,3001 W Liberty Ave,Pittsburgh, PA 15216
+Frankie's Extra Long,4.5,19,$,Sandwiches,40.46497,-79.96583,3535 Butler St,Pittsburgh, PA 15201
+Mike & Tony's Gyros,4.0,36,$,Greek,40.443431854248,-79.9970779418945,927 Liberty Ave,Pittsburgh, PA 15222
+Benihana,3.0,69,$$$,Japanese,40.39264,-80.0702699,2100 Greentree Rd,Pittsburgh, PA 15220
+El Campesino,3.0,84,$$,Mexican,40.520705,-80.005774,4771 McKnight Rd,Pittsburgh, PA 15237
+Alfred's Deli & Market,5.0,13,$,Delis,40.4566938,-79.9683627,3041 Brereton St,Pittsburgh, PA 15219
+Spinach Urban Bistro,4.0,25,$$,Vegan,40.451138,-79.934616,735 Copeland St,Pittsburgh, PA 15232
+Asiatique Thai Bistro,3.5,61,$$,Thai,40.4565508490606,-79.914870405773,6525 Penn Ave,Pittsburgh, PA 15206
+Molly's Pizza,3.5,40,$,Pizza,40.39698,-80.03587,1525 Potomac Ave,Pittsburgh, PA 15216
+Chipotle Mexican Grill,3.5,45,$,Mexican,40.45425,-79.94741,4800 Baum Blvd,Pittsburgh, PA 15213
+Siam Thai Restaurant,3.5,33,$$,Thai,40.4371292,-80.0005157,410 1st Ave,Pittsburgh, PA 15219
+The Big Idea Bookstore and Cafe,4.5,18,$,Bookstores,40.4601392,-79.9467527,4812 Liberty Ave,Pittsburgh, PA 15224
+Big Shot Bob's House of Wings - South Side,4.0,19,$$,Chicken Wings,40.42862,-79.98428,1324 E Carson St,Pittsburgh, PA 15203
+Silky's Sports Bar & Grill,3.5,49,$$,Sports Bars,40.43709,-79.922803,1731 Murray Ave,Pittsburgh, PA 15217
+Ease Modern Comfort Cuisine,3.5,62,$$,American (New),40.4326,-79.89424,1100 S Braddock Ave,Pittsburgh, PA 15218
+Mitchell's Fish Market,3.5,65,$$$,Seafood,40.357194,-80.051294,1500 Washington Rd,Pittsburgh, PA 15228
+Acorn Pittsburgh,4.0,30,$$$,American (New),40.45129,-79.93259,5528 Walnut St,Pittsburgh, PA 15232
+T-Swirl Crepe,4.5,19,$$,Creperies,40.4375156,-79.9231371,1714 Murray Ave,Pittsburgh, PA 15217
+The Coop Chicken and Waffles,4.5,14,$,Food Trucks,40.4425888061523,-79.9995422363281,Pittsburgh, PA 15222
+Fredos Deli,4.0,25,$,Delis,40.3962,-80.03544,1451 Potomac Ave,Pittsburgh, PA 15216
+Village Tavern and Trattoria,3.5,39,$$,Italian,40.441158001788,-80.0337334702607,424 S Main St,Pittsburgh, PA 15220
+Cherries Diner,3.0,58,$,Diners,40.44101,-80.00316,119 Forbes Ave,Pittsburgh, PA 15222
+Dorothy 6 Blast Furnace Cafe,4.0,129,$$,Lounges,40.40727,-79.90981,224 E 8th Ave,Homestead, PA 15120
+Osaka,4.0,50,$$,Sushi Bars,40.3904719245925,-80.0712340054321,2101 Green Tree Rd,Pittsburgh, PA 15220
+The Scoop,4.0,25,$,Ice Cream & Frozen Yogurt,40.3687877,-79.9105045,5384 Mifflin Rd,Pittsburgh, PA 15207
+Donatelli's Italian Food Center,3.5,28,$,Grocery,40.46215,-79.94934,4711 Liberty Ave,Pittsburgh, PA 15224
+Marketplace Cafe,4.0,22,$$,Diners,40.544484,-80.008365,Nordstrom,1000 Ross Park Mall Dr,Pittsburgh, PA 15237
+Krista's Cantina,4.5,16,$,Bars,40.46704,-80.03437,2650 California Ave,Pittsburgh, PA 15212
+McKnight Kitchen,4.0,52,$$,Sushi Bars,40.5294531222897,-80.0084148131627,4860 McKnight Rd,Pittsburgh, PA 15237
+India Palace Cuisine,3.5,41,$$,Indian,40.4430603339652,-80.0022347104508,137 6th St,Pittsburgh, PA 15222
+Frisch's,4.0,32,$,Chicken Wings,40.3579254,-80.0010376,5301 Grove Rd,Ste E 530,Pittsburgh, PA 15236
+DeBlasio's Restaurant,3.5,35,$$,Italian,40.3924827575684,-80.0658264160156,1717 Cochran Rd,Pittsburgh, PA 15220
+The Café Carnegie,3.5,34,$$,American (New),40.44341,-79.94884,4400 Forbes Ave,Pittsburgh, PA 15213
+Royal Myanmar,4.5,89,$$,Burmese,40.5186,-80.03095,644 Center Ave,West View, PA 15229
+Great Harvest Bread Co,4.0,28,$,Bakeries,40.459176349642,-79.9182679558258,6401 Penn Ave,Pittsburgh, PA 15206
+Pizza Palermo,3.0,57,$,Pizza,40.45621,-79.93657,5440 Centre Ave,Ste 3,Pittsburgh, PA 15232
+The Saloon of Mt Lebanon,3.0,55,$,Sports Bars,40.38214,-80.04431,622 Washington Rd,Pittsburgh, PA 15228
+Grant Bar,3.5,33,$$,American (Traditional),40.4783199,-79.9697,114 Grant Ave,Pittsburgh, PA 15209
+Sunny Jim's Tavern,3.5,59,$$,American (Traditional),40.517739,-80.094469,255 Camp Horne Rd,Pittsburgh, PA 15202
+Mineo's Pizza House,3.5,49,$,Pizza,40.37994,-80.0447,713 Washington Rd,Pittsburgh, PA 15228
+Huszar,4.0,27,$$,Bars,40.4567312,-79.9988965,627 E North Ave,Pittsburgh, PA 15212
+BRGR,3.0,104,$$,Burgers,40.3577156066895,-80.051872253418,1500 Washington Rd,The Galleria,Pittsburgh, PA 15228
+The Map Room Grill & Bar,3.5,34,$$,Gastropubs,40.432199055493,-79.893721191281,1126 S Braddock Ave,Pittsburgh, PA 15218
+New Dumpling And Sushi House,3.0,67,$$,Chinese,40.4326099,-79.92337,2138 Murray Ave,Pittsburgh, PA 15217
+Food Shoppe,4.5,12,$,Grocery,40.44156,-79.92054,5878 Northumberland St,Pittsburgh, PA 15217
+Speakeasy,3.5,74,$$,American (New),40.440594,-79.99659,530 William Penn Pl,Downtown, PA 15219
+Andrew's Steak and Seafood,3.5,51,$$$,Steakhouses,40.446786,-80.022094,777 Casino Dr,Pittsburgh, PA 15212
+Bagel Factory,2.5,92,$,Bagels,40.4382514953613,-79.9199066162109,5885 Forbes Ave,Pittsburgh, PA 15217
+Luke and Mike's Frontporch,3.5,37,$$,American (New),40.4902106,-79.9035091,235 Commercial Ave,Pittsburgh, PA 15215
+The Original Gyro,4.0,31,$,Greek,40.3651287406683,-80.0181799381971,3611 Library Rd,Pittsburgh, PA 15234
+Choolaah Indian BBQ,4.0,49,$$,Indian,40.4603835,-79.9229767,6144 Centre Ave,Pittsburgh, PA 15206
+Duck Donuts,4.0,37,$,Coffee & Tea,40.43851,-79.99734,100 Siena Dr,Pittsburgh, PA 15241
+Nellie's Sandwiches & Deli,4.0,29,$,Sandwiches,40.44098,-79.95903,3524 5th Ave,Pittsburgh, PA 15213
+Pizza Care,3.5,41,$,Pizza,40.438725,-79.984349,1525 5th Ave,Pittsburgh, PA 15219
+Excuses Bar & Grill,4.0,28,$,Bars,40.4272575378418,-79.96875,2526 E Carson St,Pittsburgh, PA 15203
+Kretzler's Tavern,3.0,45,$,American (Traditional),40.5127296447754,-79.9973602294922,2240 Babcock Blvd,Pittsburgh, PA 15237
+Big Shot Bob's House of Wings - Beechview,4.0,25,$,Chicken Wings,40.40537,-80.03011,2102 Broadway Ave,Pittsburgh, PA 15216
+Mitchell's Restaurant Bar & Banquet Center,3.5,32,$$,American (Traditional),40.437105,-79.9964954,304 Ross St,Pittsburgh, PA 15219
+Cafe On Main,4.0,76,$$,Breakfast & Brunch,40.49484,-79.93303,914 Main St,Sharpsburg, PA 15215
+Mandy's Pizza,3.5,56,$$,Pizza,40.52206,-80.0339599,512 Perry Hwy,Pittsburgh, PA 15229
+Fireside Caribbean Restaurant,4.0,25,$$,Caribbean,40.4426,-79.88222,796 Penn Ave,Pittsburgh, PA 15221
+Pittsburgh Sandwich Society,4.5,12,$$,Food Trucks,40.43698,-80.06476,Pittsburgh, PA 15205
+Boston Market,4.0,18,$$,American (Traditional),40.45559,-79.94156,5200 Baum Blvd,Pittsburgh, PA 15224
+Mendoza Express,3.5,44,$,Mexican,40.416942,-80.066061,812 Noblestown Rd,Pittsburgh, PA 15205
+Pleasure Bar and Restaurant,3.0,77,$$,Italian,40.46172,-79.94869,4729 Liberty Ave,Pittsburgh, PA 15224
+Mezza 663 Grill,4.0,25,,Mediterranean,40.381252,-80.043926,663 Washington Rd,Pittsburgh, PA 15228
+Badamo's Pizza,4.5,17,,Pizza,40.4558035303933,-80.0065898300499,1106 Federal St,Pittsburgh, PA 15212
+Zen Asian Diner,3.0,77,$$,Chinese,40.47836,-79.95544,5100 Butler St,Pittsburgh, PA 15201
+Sieb's Pub,4.0,37,$$,Irish,40.53695,-80.02121,3382 Babcock Blvd,Pittsburgh, PA 15237
+Lexus Club at PNC Park,4.5,19,$$$$,Lounges,40.4476,-80.00503,115 Federal St,Pittsburgh, PA 15212
+DeMore's Pizzeria,4.0,20,$$,Pizza,40.49492,-79.9757,1256 Evergreen Ave,Pittsburgh, PA 15209
+Claudio's Pizzeria & Ristorante,4.5,22,$$,Italian,40.363,-80.08551,1883 Painter's Run Rd,Pittsburgh, PA 15241
+Trolley Barn Eatery,4.0,23,$,Diners,40.36842,-80.01301,3360 Library Rd,Ste 4,Pittsburgh, PA 15234
+Gandy Dancer Saloon,3.5,35,$$,Bars,40.433197,-80.0037035,100 W Station Sq Dr,Pittsburgh, PA 15219
+Il Tetto:  A Rooftop Beer Garden,3.0,54,$$,Italian,40.4439496,-79.9964366,942 Penn Ave,Fl 3,Pittsburgh, PA 15222
+One Thirty One East,4.5,92,$$,American (New),40.408037,-80.086177,131 E Main St,Carnegie, PA 15106
+Sammy's Famous Corned Beef,3.5,38,$,Sandwiches,40.4435719549656,-79.9982263147831,217 9th St,Pittsburgh, PA 15222
+Café Phipps,3.5,39,$,Sandwiches,40.4388866335879,-79.9478385830811,1 Schenley Park,Pittsburgh, PA 15213
+La Felice Pizza and Pasta,3.5,41,$,Pizza,40.533501,-80.0184733,3324 Babcock Blvd,Pittsburgh, PA 15237
+Carnegie Coffee Company,4.5,112,$,Coffee & Tea,40.407761,-80.086108,132 E Main St,Carnegie, PA 15106
+Buca di Beppo Italian Restaurant,2.5,127,$$,Italian,40.4334354861046,-80.0044025685394,3 Station Sq,Pittsburgh, PA 15219
+Chevere,4.5,15,$,Tacos,40.4388057764328,-79.9984563680628,400 Cherry Way,Pittsburgh, PA 15219
+That's Amore,4.0,18,$$,Pizza,40.47905,-79.95547,5123 Butler St,Pittsburgh, PA 15201
+The Yard,3.5,47,$$,Gastropubs,40.357715,-80.051871,1500 Washington Rd,Pittsburgh, PA 15228
+The Isaly Company,4.0,27,$,Delis,40.5199,-80.03233,448 Perry Hwy,Pittsburgh, PA 15229
+Gianna Via's Restaurant & Bar,3.0,71,$$,Italian,40.3589523,-80.0014359,5301 Grove Rd Castle Village Shops,Pittsburgh, PA 15236
+Giovanni's Pizza & Restaurant,4.0,14,$$,Pizza,40.4385166615248,-79.9848407506943,1504 5th Ave,Pittsburgh, PA 15219
+A'Pizza Badamo,4.0,110,$,Pizza,40.38108,-80.04471,656 Washington Rd,Mount Lebanon, PA 15228
+Houlihan's,3.5,60,$$,Bars,40.357715,-80.051871,1500 Washington Rd,Pittsburgh, PA 15228
+Uncle Sam's Submarines,3.5,46,$,Sandwiches,40.4890230106417,-79.8926940961875,936 Freeport Rd,Pittsburgh, PA 15238
+Soul Food Connection,4.5,12,$,Soul Food,40.4426088,-79.8855258,819 Wood St,Pittsburgh, PA 15221
+Stuff'd Pierogi Bar,3.0,75,$$,Polish,40.4436392463049,-80.000546425581,130 7th St,Pittsburgh, PA 15222
+Primanti Bros.,3.5,27,$$,Sports Bars,40.46454,-79.93263,5491 Penn Ave,Pittsburgh, PA 15206
+Michigan & Trumbull,4.5,20,$$,Pizza,40.4517250865672,-80.0064022805941,200 Children's Way,Pittsburgh, PA 15212
+Nancettas Ristorante,4.0,30,$$,Italian,40.488128,-79.87825,1200 Old Freeport Rd,Pittsburgh, PA 15238
+Arby's,4.5,11,$,Fast Food,40.4425343,-79.998702,808 Liberty Ave,Pittsburgh, PA 15222
+Lock & Dam Dog Shop,4.5,17,$,Hot Dogs,40.48806,-79.91999,7331 Butler St,Pittsburgh, PA 15206
+The Hop House - Greentree,3.0,54,$$,Bars,40.42105,-80.06645,2749 Noblestown Rd,Pittsburgh, PA 15205
+Rum Runners Saloon,3.0,57,$$,American (Traditional),40.5366516113281,-80.0220260620117,3385 Babcock Blvd,Pittsburgh, PA 15237
+Pizza Bellino,3.0,64,$,Pizza,40.43824,-79.92142,5839 Forbes Ave,Pittsburgh, PA 15217
+Bella Vista,3.0,49,$$$,Italian,40.438047,-80.01828,1204 Grandview Ave,Pittsburgh, PA 15211
+Johnny's Diner,4.0,15,$,Diners,40.43388,-80.031425,1900 Woodville Ave,Pittsburgh, PA 15220
+Mattress Factory Café,4.5,14,$$,American (New),40.456982,-80.012309,500 Sampsonia Way,Pittsburgh, PA 15212
+La Gourmandine Bakery & Pastry Shop,4.5,55,$$,Bakeries,40.38061,-80.05241,300 Cochran Rd,Mt Lebanon, PA 15228
+The Other Place,4.5,17,$$,Pizza,40.390527,-80.074453,2500 Swallow Hill Rd,Pittsburgh, PA 15243
+Gino Bros. Pizzeria,4.0,16,$,Pizza,40.4947098811726,-79.9346941431317,713 Main St,Pittsburgh, PA 15215
+Bob's Garage,3.5,30,$,Bars,40.489501,-79.872353,1372 Freeport Rd,Pittsburgh, PA 15238
+DiPietro's,3.5,38,$$,Italian,40.51845,-80.03162,412 Perry Hwy,Pittsburgh, PA 15229
+Chick-fil-A,4.0,23,$,Fast Food,40.351992,-80.051531,1620 Washington Rd,Pittsburgh, PA 15241
+Brunoise Restaurant,4.5,11,$$,American (New),40.4523365,-79.9841296,54 21st St,Pittsburgh, PA 15222
+City Oven,4.0,30,$,Pizza,40.4389614898001,-80.0001454353333,336 4th Ave,Pittsburgh, PA 15222
+Little Asia,2.5,90,$$,Sushi Bars,40.4454,-79.94853,311 S Craig St,Pittsburgh, PA 15213
+Bigelow Grille,2.5,74,$$,American (New),40.4405250549316,-79.994026184082,1 Bigelow Sq,Pittsburgh, PA 15219
+Say Cheese! Pizza,3.5,19,$$,Pizza,40.43663,-79.95383,3507 Cable Pl,Pittsburgh, PA 15213
+Little Nipper's Pizza II,3.5,37,$$,Pizza,40.45063173526,-79.951033198282,216 N Craig St,Pittsburgh, PA 15213
+Peppi's,4.0,21,$,Sandwiches,40.4470405578613,-79.8939666748047,7619 1/2 Penn Ave,Pittsburgh, PA 15221
+Bob's Diner,3.5,39,$,Diners,40.365947,-80.013946,1230 Grove Rd,Pittsburgh, PA 15234
+Zorba's Gyros,3.5,31,$,Sandwiches,40.43879,-79.99932,400 Smithfield St,Pittsburgh, PA 15222
+Penn Station East Coast Subs,3.5,27,$,Sandwiches,40.4537199,-79.947,4815 Centre Ave,Ste 102,Pittsburgh, PA 15213
+Honest John's Bar & Restaurant,4.5,59,$$,Bars,40.40715,-79.91005,216 E 8th Ave,Homestead, PA 15120
+McFadden's Saloon,2.5,96,$$,Bars,40.44637,-80.00756,211 N Shore Dr,Pittsburgh, PA 15212
+Pizza Parma,3.0,57,$$,Pizza,40.45839,-79.92479,217 S Highland Ave,Pittsburgh, PA 15206
+Olive Garden Italian Restaurant,3.5,38,$$,Italian,40.420073,-80.045552,971 Greentree Rd,Pittsburgh, PA 15220
+Graziano's Pizzeria,3.5,32,$,Pizza,40.46594,-79.95486,4109 Penn Ave,Pittsburgh, PA 15224
+Eighth & Hays,4.5,59,$$,Wine Bars,40.4051551818848,-79.9127960205078,130 W Eighth Ave,Homestead, PA 15120
+Walnut Grill,3.0,74,$$,Seafood,40.487069266442,-79.8888003011257,911 Freeport Rd,Pittsburgh, PA 15238
+Andora,3.5,41,$$$,American (New),40.53785,-79.91166,599 Dorseyville Rd,Pittsburgh, PA 15238
+Wilson's Bar-B-Q,4.0,26,$$,Barbeque,40.45625,-80.0144399,700 N Taylor Ave,Pittsburgh, PA 15212
+Carson City Saloon,3.0,38,$$,Sports Bars,40.4289193,-79.984081,1401 E Carson St,Pittsburgh, PA 15203
+Tequila Cowboy Bar & Grill,3.0,70,$$,Bars,40.4455501126424,-80.011337287724,380 N Shore Dr,Pittsburgh, PA 15212
+Asian Cafe,4.0,22,$,Chinese,40.3692814707756,-80.0333565473557,701 Cooke Dr,Pittsburgh, PA 15234
+China Star,3.0,51,$,Chinese,40.4225769042969,-79.9285354614258,4219 Murray Ave,Pittsburgh, PA 15217
+Nied's Hotel,3.5,29,$,Dive Bars,40.4832230508327,-79.9504729360342,5438 Butler St,Pittsburgh, PA 15201
+Erin's Fine Foods Deli,3.5,26,$,Desserts,40.4423639516439,-80.0000734165654,210 6th Ave,Pittsburgh, PA 15222
+Millvale Diner,3.5,40,$,Diners,40.4820495757241,-79.9742754325028,301 N Ave,Pittsburgh, PA 15209
+Apollo Cafe,3.5,29,$,American (Traditional),40.43914,-79.99785,429 Forbes Ave,Pittsburgh, PA 15219
+Eat'n Park,3.5,32,$,American (Traditional),40.39587,-80.03359,2874 W Liberty Ave,Pittsburgh, PA 15216
+Golden Palace Buffet,3.0,38,$,Chinese,40.44084,-79.95824,3607 Forbes Ave,Pittsburgh, PA 15213
+Mamma Lucia Pizza,4.0,14,$,Pizza,40.44036,-80.00092,433 Wood St,Pittsburgh, PA 15222
+Buford's Kitchen,2.5,68,$$,Bars,40.4387270631612,-79.9904322,1014 5th Ave,Pittsburgh, PA 15219
+Einstein Bros Bagels,4.0,26,$,Bagels,40.45451,-79.9461199,4910 Baum Blvd,Pittsburgh, PA 15213
+The Red Ring Bar & Grille,3.0,41,$$,American (New),40.4378076,-79.9910732,1015 Forbes Ave,Pittsburgh, PA 15219
+Rock Bottom Restaurant & Brewery,3.0,195,$$,American (Traditional),40.40955,-79.91515,171 E Bridge St,Homestead, PA 15120
+China Wok,3.5,32,$,Chinese,40.43846,-79.98878,1202 5th Ave,Pittsburgh, PA 15219
+Redfin Blues,2.5,84,$$,Seafood,40.46398,-79.97725,100 Waterfront Dr,Pittsburgh, PA 15222
+Bellisario's Pizza Palace,3.5,24,$,Pizza,40.38299,-80.01546,437 McNeilly Rd,Pittsburgh, PA 15226
+Panera Bread,3.0,46,$,Sandwiches,40.4416203897948,-79.9566856026649,3800 Forbes Ave,Pittsburgh, PA 15213
+Eat'n Park,3.5,19,$,Breakfast & Brunch,40.493926,-80.0646919,1002 Ohio River Blvd,Pittsburgh, PA 15202
+Thai Terrace,4.0,16,$$,Thai,40.43035,-79.88411,247 Edgewood Ave,Pittsburgh, PA 15218
+Blue Elephant Cafe,3.5,18,$,Coffee & Tea,40.4998,-79.86814,150 Gamma Dr,Pittsburgh, PA 15238
+Large Plain,4.0,32,$,Pizza,40.5309028625488,-80.0177001953125,3286 Babcock Blvd,Pittsburgh, PA 15237
+Wallace's TapRoom,3.5,35,$$,American (Traditional),40.46226,-79.92482,123 N Highland Ave,Pittsburgh, PA 15206
+Thai Tamarind,4.0,78,$$,Thai,40.491205,-80.047502,172 Lincoln Ave,Bellevue, PA 15202
+Bob's Diner,3.5,42,$,Diners,40.3628902,-80.0833415,1870 Painters Run Rd,Pittsburgh, PA 15241
+Buon Giorno Cafe,4.0,15,$$,Italian,40.4369769,-80.0005506,6 Smithfield St,Pittsburgh, PA 15222
+Good L'oven,4.5,15,$,Bakeries,40.5383026876572,-80.049893707037,318 Sewickley Oakmont Rd,Pittsburgh, PA 15237
+Giorgio's Place,3.5,31,$,Pizza,40.4521255493164,-80.0170822143555,908 Western Ave,Pittsburgh, PA 15233
+Tom's Diner,3.5,57,$,Greek,40.39424,-80.0351,2937 W Liberty Ave,Pittsburgh, PA 15216
+Gab & Eat,4.5,90,$,Breakfast & Brunch,40.39776,-80.08306,1073 Washington Ave,Carnegie, PA 15106
+Difiore's Ice Cream Delite,2.5,64,$,Ice Cream & Frozen Yogurt,40.4311485290527,-80.0073318481445,120 Shiloh St,Pittsburgh, PA 15211
+Mandarin Gourmet,3.0,52,$$,Cantonese,40.43908,-80.00171,305 Wood St,Pittsburgh, PA 15222
+Sir Pizza,3.0,43,$,Pizza,40.5383029873067,-80.0497115747454,320 Sewickley Oakmont Rd,Pittsburgh, PA 15237
+Cupka Richd Deli,4.5,7,,Delis,40.4253241,-79.9680631,48 S 27th St,Pittsburgh, PA 15203
+Merchant Oyster Company,3.5,37,$$$,Seafood,40.47023,-79.96086,4129 Butler St,Pittsburgh, PA 15201
+Pesaro's Pizza,3.0,48,$,Pizza,40.4712827,-79.95987,4324 Butler St,Pittsburgh, PA 15201
+Italian Village Pizza,3.5,31,$,Pizza,40.48813,-79.886946,979 Freeport Rd,Pittsburgh, PA 15238
+Ugly Dog Saloon,3.5,29,$,Bars,40.42689,-80.05516,2351 Noblestown Rd,Pittsburgh, PA 15205
+Szechuan Express,3.0,66,$,Szechuan,40.4417932,-79.9571431,125 Oakland Ave,Pittsburgh, PA 15213
+Rudy Martino Original House of Submarines,5.0,7,$,Diners,40.42127,-79.89024,1918 Monongahela Ave,Pittsburgh, PA 15218
+China Cafe,4.0,14,$$,Chinese,40.3424078,-79.9850518,5239 Brownsville Rd,Pittsburgh, PA 15236
+The Getaway Cafe,3.0,47,$$,Bars,40.38462,-80.0156499,3049 Sussex Ave,Pittsburgh, PA 15226
+Mitchell's Fish Market,3.0,158,$$$,Seafood,40.4089628543918,-79.9180766055519,185 W Waterfront Dr,Homestead, PA 15120
+Sphinx Cafe,3.0,48,$$,Coffee & Tea,40.43812,-79.95365,401 Atwood St,Pittsburgh, PA 15213
+Everest Ethnic Restaurant,3.5,28,$,Himalayan/Nepalese,40.367849,-79.984075,4042 Saw Mill Run Blvd,Unit B,Pittsburgh, PA 15227
+Bravo! Cucina Italiana,3.5,42,$$,Italian,40.356525,-80.051222,1500 Washingston Rd,Pittsburgh, PA 15228
+Gennaro's Pizza & Pub,3.0,65,$,Pizza,40.4285799,-79.98105,1728 E Carson St,Pittsburgh, PA 15203
+Alex's Corner Pizza Shop,4.0,13,$,Pizza,40.45853,-79.947121,4902 Cypress St,Pittsburgh, PA 15224
+Forbes Gyro,3.5,46,$,Middle Eastern,40.441463,-79.957451,3715 Forbes Ave,Pittsburgh, PA 15213
+Mia Madre Trattoria,3.5,27,$$$,Italian,40.4736321,-80.0969955,649 California Ave,Pittsburgh, PA 15202
+Hook Fish & Chicken,3.5,24,$,Chicken Wings,40.4564257711172,-80.0070092082024,1221 Federal St,Pittsburgh, PA 15212
+Buckhead Saloon,2.5,69,$$,Bars,40.4343085374126,-80.0062505501334,225 W Station Sq Dr,Pittsburgh, PA 15219
+QDOBA Mexican Eats,3.0,37,$,Mexican,40.4412764228579,-79.9570812284946,3712 Forbes Ave,Pittsburgh, PA 15213
+Cuzamil Restaurante Mexicano,2.5,68,$$,Mexican,40.4333752,-79.9228215,2109 Murray Ave,Pittsburgh, PA 15217
+Pie Express,5.0,9,$,Salad,40.4416351718937,-79.9572138885417,148 Oakland Ave,Pittsburgh, PA 15213
+Nico's Recovery Room,3.5,29,$,American (Traditional),40.46371,-79.94898,178 Pearl St,Pittsburgh, PA 15224
+JT's Restaurant,4.0,24,$,Diners,40.36516,-79.98241,4143 Brownsville Rd,Pittsburgh, PA 15227
+Donatos Fox Chapel,3.5,44,$$$,Italian,40.48833508461,-79.8828375588711,46 Fox Chapel Rd,Pittsburgh, PA 15238
+Chicken Grille,3.5,20,$,American (Traditional),40.44187,-79.9571,121 Oakland Ave,Pittsburgh, PA 15213
+Italian Village Pizza,3.5,33,$,Pizza,40.43786,-79.91959,5886 Forbes Ave,Pittsburgh, PA 15217
+Atria's,3.5,37,$$,Seafood,40.4892842,-79.8726622,1374 Freeport Rd,Pittsburgh, PA 15238
+Pizza Parma,3.0,46,$,Pizza,40.44387,-79.99858,823 Penn Ave,Pittsburgh, PA 15222
+Aladdin's Eatery,4.0,74,$$,Middle Eastern,40.5298254,-80.009392,4885 McKnight Rd,Ross Township, PA 15237
+Lombardozzi's Restaurant,3.0,28,$$,Italian,40.4606265,-79.9474312,4786 Liberty Ave,Pittsburgh, PA 15224
+Hookah Bookah,3.5,25,$$,Coffee & Tea,40.42749,-79.96956,2506 E Carson St,Pittsburgh, PA 15203
+Bar Louie,2.5,96,$$,American (New),40.4461967,-80.0106568,330 N Shore Dr,Bldg 1B,Pittsburgh, PA 15212
+Bull River Taco,3.5,50,$,Mexican,40.3497942695468,-79.9760459698011,4849 Clairton Blvd,Pittsburgh, PA 15236
+Bruegger's Bagels,3.5,24,$,Bagels,40.42897,-79.98025,1801 East Carson St,Pittsburgh, PA 15203
+El Paso Mexican Grill,4.0,22,$$,Mexican,40.3494,-80.05189,1778 North Highland Rd,Pittsburgh, PA 15241
+Jet's Pizza,3.5,42,$,Pizza,40.398472,-80.044309,1810 Dormont Ave,Pittsburgh, PA 15216
+Wiener World,3.5,27,$,Hot Dogs,40.442234451829,-79.997135407783,626 Smithfield St,Pittsburgh, PA 15222
+Bea Taco Town,4.5,9,$,Mexican,40.437427520752,-80.000129699707,110 Smithfield St,Pittsburgh, PA 15222
+Cafe Delhi,4.0,122,$$,Indian,40.4080431671241,-80.0873225927353,205 Mary St,Carnegie, PA 15106
+Antonio's Pizzeria,3.5,25,$,Pizza,40.3936,-80.02011,758 Brookline Blvd,Pittsburgh, PA 15226
+Coach's Bottleshop & Grille,3.5,36,$$,American (New),40.400306188247,-80.0429997204281,3105 Banksville Rd,Pittsburgh, PA 15216
+Chipotle Mexican Grill,3.5,34,$,Mexican,40.5292091369629,-80.0088882446289,4861 McKnight Rd,Pittsburgh, PA 15237
+Frank & Shirley's,3.5,30,$,American (Traditional),40.38831,-79.99622,2209 Saw Mill Run Blvd,Pittsburgh, PA 15210
+Sciulli's Pizza,4.5,12,$,Pizza,40.4391174316406,-79.9617919921875,3404 5th Ave,Pittsburgh, PA 15213
+Sorrento's Pizza,3.0,27,$,Pizza,40.4404029846191,-79.9563980102539,233 Atwood St,Pittsburgh, PA 15213
+Superior Motors,4.0,85,$$$,American (Traditional),40.3977638,-79.8604602,1211 Braddock Ave,Braddock, PA 15104
+Bruegger's Bagels & Jamba Juice,2.5,49,$,Bagels,40.4402657,-79.9963769,531 Grant St,Pittsburgh, PA 15219
+Hardee's,4.0,15,$,Burgers,40.4931766,-79.9755103,1201 N Ave,Pittsburgh, PA 15209
+Pizza Shack,4.0,22,$$,Pizza,40.3724406,-79.9821049,3546 Saw Mill Run Blvd,Pittsburgh, PA 15227
+Insurrection AleWorks,4.5,65,$$,Breweries,40.3924522399902,-80.08740234375,1635 E Railroad St,Heidelberg, PA 15106
+Mullin's Diner,3.5,19,$,American (Traditional),40.45264,-79.99377,876 Progress St,Pittsburgh, PA 15212
+Emil's Lounge,4.5,39,$$,American (New),40.413709,-79.880269,414 Hawkins Ave,Braddock, PA 15104
+Thai Place Restaurant,3.5,31,$$,Thai,40.4871285,-79.884837,1034 Freeport Rd,Pittsburgh, PA 15238
+Larry & Carols Pizza,2.5,40,$,Pizza,40.4368369,-79.9547169,410 Semple St,Pittsburgh, PA 15213
+Mama Rose,4.5,8,$,Caribbean,40.464046,-79.915207,121 Mayflower St,Pittsburgh, PA 15206
+Asian Fusion Bowl,3.5,17,$,Fast Food,40.4266027521324,-79.9659092828034,2767 E Carson St,Pittsburgh, PA 15203
+Antoon's Pizza,3.5,24,$,Pizza,40.4401588439941,-79.9561233520508,247 Atwood St,Pittsburgh, PA 15213
+Red The Steakhouse,3.0,37,$$$$,Steakhouses,40.44136,-79.99485,600 Grant St,US Steel Tower,Pittsburgh, PA 15219
+Red Lobster,3.0,39,$$,Seafood,40.519217,-80.004151,4766 McKnight Rd,Pittsburgh, PA 15237
+Eat'n Park,3.0,43,$,Breakfast & Brunch,40.41744,-80.03021,1250 Banksville Rd,Pittsburgh, PA 15216
+China Taste,4.0,15,$,Chinese,40.45413,-79.99811,630 E Ohio St,Pittsburgh, PA 15212
+AJ's Burger & Peruvian Chicken,3.5,22,$,Peruvian,40.4365008,-79.9544755,422 Semple St,Pittsburgh, PA 15213
+Rose Tea Cafe,2.5,60,$,Chinese,40.44477,-79.94888,412 S Craig St,Pittsburgh, PA 15213
+BRAVO! Cucina Italiana,3.5,99,$$,Italian,40.4068186,-79.9169862,250 W Bridge St,West Homestead, PA 15120
+Teutonia Mannerchor,4.5,10,$$,German,40.45517,-79.99499,857 Phineas St,Pittsburgh, PA 15212
+Five Guys,3.5,15,$,Burgers,40.4881157,-79.8854112,1029 Freeport Rd,Pittsburgh, PA 15238
+Everyday Cafe,5.0,6,$,Cafes,40.4533598854858,-79.8981681838632,532 N Homewood Ave,Pittsburgh, PA 15208
+Le Thai Café,4.5,84,$$,Thai,40.54481,-79.97264,2909 Mt Royal Blvd,Glenshaw, PA 15116
+Caliente Pizza & Drafthouse,2.5,72,$$,Pizza,40.37627,-80.03674,329 Castle Shannon Blvd,Pittsburgh, PA 15234
+Armand's Bar,3.5,23,$,Sandwiches,40.46149,-79.94816,4755 Liberty Ave,Pittsburgh, PA 15224
+Asia Tea House,3.0,47,$,Chinese,40.4427240453859,-79.9528134936706,4230 Forbes Ave,Pittsburgh, PA 15213
+Chick-fil-A,4.0,35,$,Fast Food,40.4127,-79.907871,480 E Waterfront Dr,Homestead, PA 15120
+Pizza Fiesta,3.0,41,$,Pizza,40.43702,-80.00041,14 Smithfield St,Pittsburgh, PA 15222
+Bob's Sub,4.0,24,$,Sandwiches,40.4381599,-80.0001984,215 Smithfield St,Pittsburgh, PA 15222
+Sunseri Pizza,4.0,16,$$,Pizza,40.39377,-79.97324,2805 Custer Ave,Pittsburgh, PA 15227
+Scoglio's Green Tree,3.5,30,$$,Italian,40.4207077026367,-80.0642471313477,661 Andersen Dr,Bldg 7,Pittsburgh, PA 15220
+Old Town Buffet,3.0,56,$$,Buffets,40.4114496185738,-80.0066622957092,860 Saw Mill Run Blvd,Pittsburgh, PA 15226
+The Huddle,4.0,25,$,Bars,40.40912,-80.02494,1648 Broadway Ave,Pittsburgh, PA 15216
+Sapporo Japanese Steakhouse,3.5,18,$$,Japanese,40.4400036,-80.0909106,4260 Steubenville Pike,Pittsburgh, PA 15205
+Local Brewhouse,2.5,70,$$,Sports Bars,40.4481569580499,-80.004109069705,140 Federal St,Pittsburgh, PA 15212
+BRAVO! Cucina Italiana,3.0,58,$$,Italian,40.5313703051332,-80.0090919140167,4976 McKnight Rd,Pittsburgh, PA 15237
+Silvioni's Restaurant,3.5,31,$$,Italian,40.5090999,-79.99166,2125 Babcock Blvd,Pittsburgh, PA 15209
+Crazy Mocha Coffee,3.5,20,$,Cafes,40.4579855,-79.9352334,5607 Baum Blvd,Pittsburgh, PA 15232
+Plate & Bowl,4.0,23,$$,Juice Bars & Smoothies,40.4755835567961,-79.9196754768491,5904 Bryant St,Pittsburgh, PA 15206
+Chakh Le India,4.0,20,$,Food Trucks,40.4452102455956,-79.9557053169797,4341-4379 Bigelow Blvd,Pittsburgh, PA 15213
+Quiznos Subs,3.5,20,$,Sandwiches,40.44541569093,-79.948926100871,300 S Craig St,Pittsburgh, PA 15213
+Villa Reale Pizzeria & Restaurant,3.0,36,$$,Pizza,40.44216,-79.99694,628 Smithfield St,Pittsburgh, PA 15222
+Lotsa Stone Fired Pizza,3.5,27,$,Pizza,40.4411185,-79.9578237,3621 Forbes Ave,Pittsburgh, PA 15213
+GoodFellas Restaurant & Tavern,4.0,13,$$,American (Traditional),40.4224059730768,-79.887620061636,1915 McCague St,Pittsburgh, PA 15218
+Banhmilicious,3.5,15,$$,Vietnamese,40.4521031428312,-79.9838429333257,54 21st St,Pittsburgh, PA 15222
+Patron Mexican Grill,3.0,44,$$,Mexican,40.5123635793824,-79.8798751831055,1141 Freeport Rd,Pittsburgh, PA 15238
+The Original Pancake House,4.0,90,$$,Breakfast & Brunch,40.3911665049617,-80.0738196549225,2229 Swallow Hill Rd,Green Tree, PA 15220
+Five Guys,3.5,20,$$,Burgers,40.4402035143125,-80.0028687900005,3 Ppg Pl,Pittsburgh, PA 15222
+Thee Olde Place Inn,3.5,20,$$,Diners,40.35192,-79.961,1209 Streets Run Rd,Pittsburgh, PA 15236
+Eat'n Park Restaurant,3.5,24,$,Breakfast & Brunch,40.34574,-79.973837,5100 Clairton Blvd,Pittsburgh, PA 15236
+Rochester Inn & Hardwood Grille,3.5,45,$$,American (Traditional),40.53642,-80.05088,505 Rochester Rd,Pittsburgh, PA 15237
+P.F. Chang's,3.0,132,$$,Chinese,40.407093,-79.916086,148 W Bridge St,West Homestead, PA 15120
+Kasai,4.0,66,$$,Sushi Bars,40.407946,-80.085541,146 E Main St,Carnegie, PA 15106
+Shouf's Cafe,4.5,70,$$,Mediterranean,40.36314,-80.11058,200 Washington Ave,Bridgeville, PA 15017
+Tilted Kilt Pub & Eatery,2.0,123,$$,American (Traditional),40.44576,-80.01064,353 N Shore Dr,Pittsburgh, PA 15212
+V3 Flatbread Pizza,3.5,28,$,Pizza,40.47202,-79.9589,4500 Butler St,Pittsburgh, PA 15201
+Milky Way,3.5,17,$,Pizza,40.43311,-79.92317,2120 Murray Ave,Pittsburgh, PA 15217
+Panera Bread,3.0,25,$$,Sandwiches,40.395932,-80.067397,1900 Greentree Rd,Pittsburgh, PA 15220
+Spilly's Bar-B-Q,4.5,13,,Barbeque,40.3494878204481,-79.9756316,4871 Clairton Blvd,Pittsburgh, PA 15203
+Starlite Lounge,3.5,29,$,American (Traditional),40.49397,-79.86028,364 Freeport Rd,Pittsburgh, PA 15238
+Original Milano's Pizza,3.5,25,$,Pizza,40.44124,-79.95866,3606 5th Ave,Pittsburgh, PA 15213
+The Jaggerbush,3.5,14,,Dive Bars,40.4266357421875,-79.9729614257812,133 S 23rd St,Pittsburgh, PA 15203
+Panera Bread,3.0,32,$,Sandwiches,40.436272,-79.958116,3401 Boulevard Of The Allies,Pittsburgh, PA 15213
+Subway,4.0,16,$,Sandwiches,40.44388,-79.99687,930 Penn Ave,Pittsburgh, PA 15222
+Rusty Dory Pub,3.5,18,$,Pubs,40.49579,-80.0676,850 Ohio River Blvd,Pittsburgh, PA 15202
+Crafthouse Stage & Grill,3.0,27,$,Beer Bar,40.3497142533323,-79.9966589129859,5024 Curry Rd,Pittsburgh, PA 15236
+Genoa Pizza & Bar,3.0,42,$$,Pizza,40.4388711,-80.0038533,111 Market St,Pittsburgh, PA 15222
+Noodles & Company,3.0,68,$,Noodles,40.44183,-79.95684,3805 Forbes Ave,Oakland, PA 15213
+Knossos Gyros & Sis-Kabob,3.0,22,$,Polish,40.39596,-80.0351,1439 Potomac Ave,Pittsburgh, PA 15216
+Eddie's Pizza Haus,4.0,12,$,Pizza,40.4851432,-79.9258965,1744 Chislett St,Pittsburgh, PA 15206
+Souper Bowl,3.5,28,$,Bars,40.4386748719569,-79.991266679329,910 5th Ave,Pittsburgh, PA 15219
+Cc's Cafe,4.5,33,$$,Italian,40.4936099,-79.91457,2218 Main St,Sharpsburg, PA 15215
+Broadway Brunch,4.5,30,$,Breakfast & Brunch,40.4725,-80.07413,719 Broadway Ave,McKees Rocks, PA 15136
+Danny's Pizza,4.0,18,$,Pizza,40.34966,-79.97573,4851 Clairton Blvd,Pittsburgh, PA 15236
+Nana's Hot Dog Shop,4.0,10,$,Hot Dogs,40.455929,-80.0065429,1110 Federal St,Pittsburgh, PA 15212
+Fernando's Cafe,3.0,23,$,Sandwiches,40.4437637329102,-79.9958114624023,963 Liberty Ave,Pittsburgh, PA 15222
+io Deli,4.0,10,$$,Delis,40.3888199,-80.0499943,306 Beverly Rd,Pittsburgh, PA 15216
+Bella Ria's,4.5,40,$$,American (Traditional),40.51161,-80.03051,5336 Perry Hwy,West View, PA 15229
+Bado's Pizza Grill & Ale House,3.5,132,$$,Pizza,40.38845,-80.04969,307 Beverly Rd,Mt. Lebanon, PA 15216
+TMD,4.0,8,$$$$,Sushi Bars,40.45554,-79.95342,461 Melwood Ave,Pittsburgh, PA 15213
+Bruegger's Bagels,3.0,29,$,Bagels,40.45059,-79.93614,806 S Aiken Ave,Pittsburgh, PA 15232
+Sola Pizza,3.5,30,$,Pizza,40.42897,-79.98352,1417 E Carson St,Pittsburgh, PA 15203
+IHOP,2.5,61,$,Breakfast & Brunch,40.4149933073569,-79.9235104679316,4656 Browns Hill Rd,Pittsburgh, PA 15217
+Earth Inspired Salads,3.0,27,$$,Salad,40.4411043226719,-80.001503303647,218 Fifth Ave,Pittsburgh, PA 15222
+Riviera Pizza & Pasta,3.5,29,$,Pizza,40.46007,-79.9911,1213 Spring Garden Ave,Pittsburgh, PA 15212
+Brick N' Mortar Kitchen & Catering,4.5,39,$$,Sandwiches,40.3915327,-80.0876455,1709 E Railroad St,Carnegie, PA 15106
+Steel Cactus,2.5,49,$$,Mexican,40.4475812210322,-80.0043602267795,115 Federal St,Pittsburgh, PA 15212
+Yokoso Japanese Steakhouse,3.0,143,$$,Japanese,40.40896,-79.91568,153 E Bridge St,Homestead, PA 15120
+Paisano's,3.5,17,$,Pizza,40.42208,-79.99288,821 E Warrington Ave,Pittsburgh, PA 15210
+Alexion's Bar & Grill,4.0,57,$,Bars,40.41549,-80.06755,141 Hawthorne St,Carnegie, PA 15106
+Franks Pizza & Chicken,3.5,27,$$,Chicken Wings,40.521112,-80.024922,101 Rochester Rd,Pittsburgh, PA 15229
+The South Side BBQ Restaurant,3.5,14,$,Barbeque,40.4293613,-79.9817741,75 S 17th St,Pittsburgh, PA 15203
+The Shady Dog,4.5,7,$,Street Vendors,40.451096,-79.9332613,Corner Of Baum And Libert,Pittsburgh, PA 15232
+Quik-It Chicken,3.5,31,$,Chicken Wings,40.456261213448,-80.0161723345518,820 Pennsylvania Ave,Pittsburgh, PA 15233
+Wheelhouse,3.0,26,$$,American (New),40.447203,-80.022159,777 Casino Dr,Pittsburgh, PA 15212
+Pennsbury Pub & Grill,4.0,14,$,American (New),40.42891,-80.10025,1049 Pennsbury Blvd,Pittsburgh, PA 15205
+Espresso a Mano,5.0,8,$,Coffee & Tea,40.42868,-79.98312,1506 E Carson St,Pittsburgh, PA 15203
+Hug Thai,3.5,16,$$,Thai,40.4660996481591,-79.9536006256889,472 44th St,Pittsburgh, PA 15201
+Gary's Restaurant,4.5,13,$,American (New),40.38562,-79.97844,2605 Brownsville Rd,Pittsburgh, PA 15227
+Gran Canal Caffe,4.5,34,$$,Cafes,40.494656637311,-79.9321883171797,1021 N Canal St,Sharpsburg, PA 15215
+Fairway Grille,3.5,30,$$,American (New),40.3540905,-80.0146199,1530 Hamilton Rd,Cool Springs,Pittsburgh, PA 15234
+Mezbaan Indian Cuisine,3.0,26,$,Indian,40.43766,-80.000541,111 Smithfield St,Pittsburgh, PA 15222
+Penn Station East Coast Subs,3.5,23,$,American (Traditional),40.4425142,-79.9987478,808 Liberty Ave,Pittsburgh, PA 15222
+House of Lee Restaurant,3.0,32,$$,Chinese,40.50999,-80.09506,8145 Ohio River Blvd,Pittsburgh, PA 15202
+Crazy Mocha Coffee,3.5,18,$,Coffee & Tea,40.46929,-79.96127,4032 Butler St,Pittsburgh, PA 15201
+Hunan's Palace,4.0,29,$$,Chinese,40.4161591,-79.8480883,2360 Ardmore Blvd,Pittsburgh, PA 15221
+Nobby's Pizzeria,4.0,17,$$,Pizza,40.369034,-80.0851376,373 Vanadium Rd,Pittsburgh, PA 15243
+Champions Club,4.0,12,$$,Sports Bars,40.417972,-80.059038,500 Mansfield Ave,Pittsburgh, PA 15205
+Eat'n Park,3.5,17,$,Breakfast & Brunch,40.538688659668,-80.011116027832,7370 McKnight Rd,Pittsburgh, PA 15237
+Noodles & Company,3.5,18,$$,Noodles,40.341956,-80.053411,301 S Hills Village Dr,Pittsburgh, PA 15241
+Bar Frenchman,4.0,19,$$$,French,40.46058,-79.92704,5925 Baum Blvd,Pittsburgh, PA 15206
+Clark Bar & Grill,3.5,15,$$,American (Traditional),40.4490803,-80.0088856,503 Martindale St,Pittsburgh, PA 15212
+Boulevard Deli,4.5,7,$,Delis,40.4385872,-79.999794,309 Smithfield St,Pittsburgh, PA 15222
+Bar 3 Millvale,4.0,24,$$,American (New),40.4813530843805,-79.9746854427498,217 N Ave,Millvale, PA 15209
+BRGR Truck,3.5,13,$$,Food Trucks,40.4380979895909,-79.9981609323329,451-499 4th Ave,Pittsburgh, PA 15219
+Panera Bread,2.5,39,$,Sandwiches,40.456066,-79.937436,5430 Centre Ave,Pittsburgh, PA 15232
+Bruegger's Bagels,3.0,33,$,Bagels,40.4412803649902,-79.9569549560547,3714 Forbes Ave,Pittsburgh, PA 15213
+El Burro,3.5,31,$,Vegan,40.4325712790865,-79.8936523497105,1113 S Braddock Ave,Pittsburgh, PA 15218
+The Hop House,3.0,38,$$,Bars,40.545657,-80.029816,5510 Babcock Blvd,Pittsburgh, PA 15237
+TJ Buffet Sushi and Grill,3.0,36,$,Sushi Bars,40.5226505128244,-80.006479807198,4801 McKnight Rd,Pittsburgh, PA 15237
+Tasty Chinese Restaurant,3.0,30,$,Chinese,40.4585,-79.92469,213 S Highland Ave,Pittsburgh, PA 15206
+Aracri's Greentree Inn,3.5,18,$$$,American (New),40.41698,-80.04537,1006 Greentree Rd,Pittsburgh, PA 15220
+Panera Bread,3.5,19,$,Sandwiches,40.4891772610677,-79.8925406952185,942 Freeport Rd,Pittsburgh, PA 15238
+Cerasoli Pizzeria,4.0,23,$$,Pizza,40.4736148,-80.0288691,3053 Brighton Rd,Pittsburgh, PA 15212
+Mia Pizza,2.5,31,$,Pizza,40.4546333,-79.9465557,4901 Baum Blvd,Pittsburgh, PA 15213
+Slice On Broadway,4.0,54,$,Pizza,40.4074789625738,-80.0865172594786,108 E Main St,Carnegie, PA 15106
+Potenza Pizza and Pasta,3.0,35,$$,Pizza,40.4527897,-79.9494723,4709 Centre Ave,Pittsburgh, PA 15213
+Jimmy John's,3.5,17,$,Sandwiches,40.4415160417557,-80.0032339990139,506 Liberty Ave,Pittsburgh, PA 15222
+Piacquadio's Italian Restaurant & Lounge,4.5,19,$$,Italian,40.368716,-80.034629,300 Mt Lebanon Blvd,Pittsburgh, PA 15234
+The Crack'd Egg,4.0,53,$$,American (New),40.3656776,-79.9818954,4131 Brownsville Rd,Brentwood, PA 15227
+Fu Lai Chinese Restaurant,2.5,33,$,Chinese,40.44286,-80.00311,525 Penn Ave,Pittsburgh, PA 15222
+Basha 21,4.5,16,$$,Middle Eastern,40.4363881393445,-79.9227545238589,1821 Murray Ave,Squirrel Hill, PA 15217
+Soul Food on Hamilton,4.5,7,,Soul Food,40.4539756774902,-79.8955688476562,7302 Hamilton Ave,Pittsburgh, PA 15208
+Shab's Mediterranean Food,3.5,19,$,Lebanese,40.4395208251291,-80.0002171689768,339 Forbes Ave,Pittsburgh, PA 15222
+UUBU 6,3.5,13,$$,American (New),40.42393,-79.97834,178-180 Pius St,Pittsburgh, PA 15203
+Earth Inspired Salads,4.0,12,$$,Salad,40.44141,-79.99666,611 William Penn Pl,Pittsburgh, PA 15219
+Sushi Fuku,3.0,24,$,Sushi Bars,40.44473,-79.94856,417 S Craig St,Pittsburgh, PA 15213
+Dukes Rib House & Grille,3.5,26,$$,Barbeque,40.3939438278814,-80.0632630226899,1910 Cochran Rd,Pittsburgh, PA 15220
+The Tong Garden,4.0,16,$$,Chinese,40.39175,-80.01776,956 Brookline Blvd,Pittsburgh, PA 15226
+Zoup!,4.0,12,$$,Sandwiches,40.487786,-79.8818726,1137 Freeport Rd,Pittsburgh, PA 15238
+Mm Mm Pizza,3.5,12,$,Pizza,40.34392,-79.97215,5208 Clairton Blvd,Pittsburgh, PA 15236
+Pgh Crepes,3.5,18,$,Food Trucks,40.443960770855,-79.9542873063074,Bigelow Blvd & Forbes Ave,Pittsburgh, PA 15213
+Papa J's,3.0,121,$$,Italian,40.40822,-80.08525,200 E Main St,Carnegie, PA 15106
+Center Avenue Slice,3.5,28,$,Pizza,40.51581,-80.0223,332 Center Ave,Pittsburgh, PA 15229
+Peter Allen's,2.5,46,$$,Italian,40.4428647785161,-80.0020460271939,613 Penn Ave,Pittsburgh, PA 15222
+Rupe's Roadhouse,4.5,16,$$,Bars,40.51863,-80.09005,325 Camp Horne Rd,Pittsburgh, PA 15202
+Au Bon Pain,3.5,13,$$,Bakeries,40.44253,-80.00086,625 Liberty Ave,Pittsburgh, PA 15222
+Chan An Restaurant,4.0,20,$,Chinese,40.439176,-80.071117,37 Walsh Rd,Crafton Ingram Shopping Ctr,Pittsburgh, PA 15205
+Eat'n Park,3.0,28,$,American (Traditional),40.4869995117188,-79.8917846679688,849 Freeport Rd,Pittsburgh, PA 15238
+Fox's Pizza Den,3.5,12,$$,Pizza,40.4268,-80.0053,6 Bailey Ave,Pittsburgh, PA 15211
+Bar Louie,3.0,111,$$,Bars,40.4070399,-79.9174919,244 W Bridge St,West Homestead, PA 15120
+RedWood Cafe,4.0,9,$$,Sandwiches,40.38023,-80.04489,698 Washington Rd,Pittsburgh, PA 15228
+Wheel House,3.0,22,$$,American (Traditional),40.4472,-80.02216,777 Casino Dr,Pittsburgh, PA 15212
+Old School Italian Sandwich Shop,4.5,28,$,Italian,40.40844,-79.90229,609 E 9th Ave,Homestead, PA 15120
+Sal's New York Pizzeria,3.0,20,$$,Pizza,40.42862,-79.98439,1322 E Carson St,Pittsburgh, PA 15203
+Pittsburgh Fish & Chicken,3.5,11,$$,Chicken Wings,40.48437,-80.03644,1312 Benton Ave,Pittsburgh, PA 15212
+Steelhead Brasserie and Wine Bar,2.5,40,$$,American (New),40.439745,-79.993004,112 Washington Pl,Pittsburgh, PA 15219
+Denny's,3.5,25,$,Breakfast & Brunch,40.3911407,-80.073788,2180 Greentree Rd,Pittsburgh, PA 15220
+The Upper Crust Pizza,3.5,18,$,Pizza,40.54611,-79.90154,715 Dorseyville Rd,Pittsburgh, PA 15238
+Liam's Fish, Wings & Things,3.0,19,$$,Chicken Wings,40.4447851035292,-79.8869266134007,501 Penn Ave,Pittsburgh, PA 15221
+Jimmy John's,3.0,25,$,Sandwiches,40.457283,-79.91685,6425 Penn Ave,Pittsburgh, PA 15206
+Anchor & Anvil Coffee Bar,4.5,48,$,Coffee & Tea,40.508731842041,-80.0848770141602,7221 Church Ave,Ben Avon, PA 15202
+Chipotle Mexican Grill,3.5,43,$,Mexican,40.4592869978106,-79.9259222717808,5986 Centre Ave,East Liberty, PA 15206
+Brookline Pub,3.0,21,$,Pubs,40.39402,-80.02067,734 Brookline Blvd,Pittsburgh, PA 15226
+Park Place Pub,3.0,30,$$,Pubs,40.47637,-79.92077,5719 Bryant St,Pittsburgh, PA 15206
+Panera Bread,2.5,33,$,Sandwiches,40.456611,-79.914994,136 Bakery Square Boulevard,Pittsburgh, PA 15206
+Salonika Imports,4.5,6,,Grocery,40.46484,-79.96775,3509 Smallman St,Pittsburgh, PA 15201
+Joe's Rusty Nail,4.0,51,$,American (Traditional),40.49666,-80.0574,560 Lincoln Ave,Bellevue, PA 15202
+Lupi's Famous Pizza,5.0,8,$$,Pizza,40.5132255554199,-80.0009918212891,2311 Babcock Blvd,Pittsburgh, PA 15237
+Sarku Japan,3.5,10,$,Japanese,40.3427581085395,-80.0553452968597,181 Fort Couch Rd,Pittsburgh, PA 15241
+Shenanigans Bar & Grille,3.5,22,$$,Bars,40.5137486,-80.0005088,2310 Babcock Blvd,Pittsburgh, PA 15237
+Duke's Upper Deck Cafe,3.5,51,$$,American (New),40.40531,-79.9126,122 W 8th Ave,Homestead, PA 15120
+Primanti Bros.,3.5,103,$,Sandwiches,40.3558100759983,-80.05026653409,1539 Washington Rd,Mt. Lebanon, PA 15228
+Franks Pizza & Chicken,4.5,19,$$,Chicken Wings,40.4867289,-79.973769,641 North Ave,Millvale, PA 15209
+Hanlon's Cafe,4.5,27,$,Diners,40.4408775184471,-80.0689034403138,17 Foster Ave,Crafton Ingram Shopping Center,Crafton, PA 15205
+Cafe Fifth Ave,3.5,14,$$,Cafes,40.4387014,-79.992016,818 5th Ave,Pittsburgh, PA 15219
+Vento's Pizza,3.0,18,$,Pizza,40.464382,-79.923269,420 N Highland Ave,Pittsburgh, PA 15206
+Tavern In The Wall,3.5,23,$$,Bars,40.4904594421387,-79.9046096801758,211 Commercial Ave,Pittsburgh, PA 15215
+The Cheesecake Factory,3.5,121,$$,American (New),40.5445585,-80.0087394,1000 Ross Park Mall Dr,Ross Township, PA 15237
+Yinz Guys Pizza,3.5,13,$$,Desserts,40.3955268859863,-79.9873275756836,1914 Brownsvillerd,Pittsburgh, PA 15210
+Tazza D'oro,4.5,8,,Coffee & Tea,40.481022,-79.974707,524 Grant Ave,Pittsburgh, PA 15209
+Gabriella's Gourmet On the Go,4.0,10,$,Delis,40.4296601263636,-79.9977401643991,301 E Carson St,Pittsburgh, PA 15219
+The Flats on Carson,3.0,25,$$,Cocktail Bars,40.4289167732564,-79.9828482301456,1500 E Carson St,Pittsburgh, PA 15203
+TGI Fridays,2.5,37,$$,American (Traditional),40.438782,-79.990515,1027 Fifth Ave,Pittsburgh, PA 15219
+Tomatoes II Pizzeria,4.0,54,$$,Pizza,40.397371981457,-80.0838390876926,1069 Washington Ave,Glenn Scott Plz,Carnegie, PA 15106
+K & T's Fish and Chicken,3.0,16,$,Moroccan,40.45192,-79.9525,4521 Centre Ave,Pittsburgh, PA 15213
+Bravo Franco Ristorante,2.5,54,$$,Italian,40.4431114196777,-80.0019760131836,613 Penn Ave,Pittsburgh, PA 15222
+Applebee's Grill + Bar,3.0,23,$$,Burgers,40.3912084505296,-80.0691498050018,2101 Greentree Rd,Pittsburgh, PA 15220
+Cole Cafe,3.5,32,$,American (Traditional),40.52592,-79.96222,1718 Mt Royal Blvd,Glenshaw, PA 15116
+Dave & Buster's,2.5,144,$$,American (Traditional),40.409937,-79.913895,180 E Waterfront Dr,Homestead, PA 15120
+R&B's Pizza Place,2.5,36,$$,Pizza,40.43756,-80.00058,107 Smithfield St,Pittsburgh, PA 15222
+Piazza Talarico and Papa Joe's Wine Cellar,5.0,8,,Italian,40.4645,-79.96022,3832 Penn Ave,Pittsburgh, PA 15201
+Sabroso Mexican Delights,4.5,6,$,Street Vendors,40.4509386,-79.9843849,1933 Penn Ave,Pittsburgh, PA 15222
