@@ -2,11 +2,9 @@ import os
 import sys
 import requests
 import csv
-import re
 import time
-from bs4 import BeautifulSoup
 
-def download_images():
+def download_data():
    r = requests.get('https://developers.zomato.com/api/v2.1/search?entity_id=1081&entity_type=city&sort=rating&order=desc', headers={'user-key' : '2a1c6f3bcec19c6ae981419cb5df1bc0'})
 
    total_count = r.json()['results_found']
@@ -49,4 +47,4 @@ def write_data(wr, data):
 
 if __name__ == "__main__":
    os.chdir(os.path.dirname(sys.argv[0]))
-   download_images()
+   download_data()
