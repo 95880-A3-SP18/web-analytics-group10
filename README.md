@@ -27,3 +27,22 @@ There are many applications out there which provide all restaurants at a locatio
 
 Our major data source will be from the readily available APIs from Yelp and Google Places API's.
 
+
+## Instructions on how to run the project
+
+To run the project, please make sure you have the following libraries installed.
+
+1. textblob - http://textblob.readthedocs.io/en/dev/install.html
+2. WordCloud - https://github.com/amueller/word_cloud (For windows machine, you might have to download the wheel (.whl) as per your python version and install it manually.)
+3. Pillow - https://pypi.python.org/pypi/Pillow/2.2.1
+4. Make sure these are installed os, sys, csv, requests,time, pandas, numpy, io, json, bs4, matplotlib, warnings
+5. Make sure this package works as well IPython.display
+
+Once you have all the libraries installed. 
+
+* Start Jupyter Notebook
+* Navigate to the project folder
+* Navigate to the src folder
+* Start "Project_Group10.ipynb" and run all cells. The menu is displayed in the last cell. It takes couple of minutes to download all the data for the first time for both searching restaurants and then couple of minutes for extracting reviews. It will be fast once the data is loaded, since the program saves cache.
+
+
